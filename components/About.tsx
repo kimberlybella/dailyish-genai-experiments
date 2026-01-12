@@ -5,7 +5,7 @@ export default function About() {
     <section className="py-24 px-6 bg-light text-dark">
       <div className="max-w-7xl mx-auto">
         <div className="flex items-center gap-4 mb-12">
-          <div className="w-12 h-12 border-2 border-dark rounded-full"></div>
+          <img src="/images/logo.png" alt="" className="w-12 h-12" />
           <h2 className="text-4xl md:text-5xl font-serif font-semibold">
             About the Experimenter
           </h2>
@@ -14,7 +14,7 @@ export default function About() {
         <div className="flex flex-col md:flex-row gap-8 items-start">
           <div className="flex-shrink-0">
             <img
-              src="/images/headshot.jpg"
+              src="/images/Headshot.jpg"
               alt="Kimberly Bella"
               className="w-48 h-48 object-cover rounded-lg"
             />
