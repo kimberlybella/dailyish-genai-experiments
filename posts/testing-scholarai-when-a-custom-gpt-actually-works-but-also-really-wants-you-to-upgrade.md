@@ -13,7 +13,7 @@ I tested the ScholarAI custom GPT to see if it lived up to the hype. I wanted to
 
 Turns out, quite a bit. Also turns out, it really wants me to visit Jenni.ai.
 
-What I Tested
+## What I Tested
 
 I started by asking ScholarAI to explain its capabilities, particularly around finding peer-reviewed research. The responses were focused, it stayed in its lane, and acted like an actual research assistant instead of a chatbot pretending to be one.
 
@@ -23,7 +23,7 @@ It delivered. No made-up citations. No vague summaries dressed up as facts. Just
 
 While the conclusions it drew about future pro-consumer policies related to data rights were more optimistic than mine, I was genuinely impressed by the output.
 
-The Upsell Was Everywhere
+## The Upsell Was Everywhere
 
 Throughout this otherwise helpful conversation, ScholarAI kept suggesting I should head over to Jenni.ai to start writing.
 
@@ -33,26 +33,26 @@ The suggestions were polite, almost apologetic. But they were persistent. Every 
 
 It wasn't annoying enough to make me quit. But it was noticeable enough to change how the interaction felt.
 
-Why This Actually Matters
+## Why This Actually Matters
 
 Despite the upselling, ScholarAI did what it promised. Unlike general-purpose AI that sometimes wings it when asked about research, this tool:
 
-Understood its specific domain
-Didn't hallucinate sources or draw imaginary conclusions
-Gave me exactly what I asked for
-Maintained clear boundaries about what it could verify
+- Understood its specific domain
+- Didn't hallucinate sources or draw imaginary conclusions
+- Gave me exactly what I asked for
+- Maintained clear boundaries about what it could verify
 
 It functioned like a research assistant who actually knows their stuff, but also needs to hit a sales target.
 
-What I'm Realizing About AI Tools
+## What I'm Realizing About AI Tools
 
 This experiment crystallized something I've been noticing across multiple platforms:
 
-We're not just interacting with AI anymore. We're interacting with AI that has business models.
+**We're not just interacting with AI anymore. We're interacting with AI that has business models.**
 
 These tools aren't neutral interfaces, they're distribution channels. Some handle this better than others, but the incentive is always there, humming quietly in the background of otherwise helpful interactions.
 
-The Bottom Line
+## The Bottom Line
 
 If you need actual research citations, not ChatGPT's best guess at what a paper might say, ScholarAI works well.
 
