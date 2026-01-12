@@ -1,0 +1,904 @@
+Edition,Date Published,Link to Newsletter,Title,Tools Tested,Newsletter,LinkedIn Post,Website Header,Website Summary
+1,10/9/2025,https://www.linkedin.com/pulse/claude-projects-foundation-thought-partnership-kimberly-bella-f81le,Claude Projects - The Foundation of Thought Partnership,Tool: Claude (Anthropic) - Where to Find It: claude.ai - Cost: Free tier available; Pro subscription for extended features,"How I Used Claude Projects to Structure and Refine a Presentation
+
+I started by creating a dedicated Claude ""project"" for my presentation. Think of projects as persistent workspaces where Claude remembers your context across conversations. I did an initial brain dump of my general talk idea and asked Claude to help me create a structure and flow.
+
+After comparing outputs from multiple AI tools, I returned to Claude for the real iterative work. I had several voice conversations (yes, you can talk to Claude) to work through critical decisions: Should I add another use case? Were there better transitions to make the story more compelling? We decided together on the final structure.
+
+Later in the process, I used Claude to help with proper slide structure given our agreed-upon content, then again to implement feedback from my book club practice session, and finally to refine my talk track.
+
+Key Learnings
+
+Claude excels at sustained creative partnership. The project feature meant I didn't have to explain my context every time. Our conversations built on each other, creating genuine iteration rather than starting from scratch.
+Voice conversations change everything. Talking through structural decisions felt more natural than typing, especially for subjective creative choices. The back-and-forth helped me think, not just execute.
+Use Claude for decisions, not just drafting. My biggest ""aha"" moment: I wasn't asking Claude to write my presentation. I was using it as a thinking partner to make better choices about structure, flow, and narrative arc.
+
+The irony isn't lost on me. I'm asking you to experiment with AI tools in an article I created by experimenting with AI tools. But that's exactly the point. The messy process of trying, iterating, and discovering what works for you is where the value lives.
+
+You don't need permission, but here it is anyway: If you have Claude Pro, create a Project right now. If you're on the free tier, start a regular conversation and bookmark it, then you can still build continuity by referencing previous discussions. Call it whatever you want. Talk to it like you'd talk to a thoughtful colleague who never gets tired, never judges, and always remembers context when you remind them. The worst that happens? You learn something. The best that happens? You find a thinking partner you didn't know you needed.
+
+Start your own project or bookmarked conversation today.",,Claude Projects: Building a Persistent AI Thinking Partner,"What happens when you stop treating AI as a content generator and start using it as a genuine thinking partner? In this experiment, I explored Claude's Projects feature to develop and refine a presentation through multiple iterative sessions.
+The key discovery: Claude Projects creates a persistent workspace where context carries across conversations. No more re-explaining your project every time. Instead, each session builds on the last - from initial brain dump to structure creation, through voice conversations about creative decisions, all the way to final refinements based on practice session feedback.
+I found the most value not in having Claude write my presentation, but in using it to think through structural choices, narrative flow, and transitions. Voice conversations proved especially powerful for working through subjective creative decisions in real-time.
+This experiment demonstrates how AI tools excel when used for sustained creative partnership rather than one-off tasks. Whether using Claude Pro's Projects feature or bookmarking conversations in the free tier, the ability to maintain context transforms AI from a tool into a collaborator.
+[Read the full experiment on LinkedIn →]"
+2,10/10/2025,https://www.linkedin.com/pulse/gemini-chatgpt-power-comparison-kimberly-bella-vplwe,Gemini & ChatGPT - The Power of Comparison,Tools: Google Gemini & OpenAI ChatGPT - Where to Find Them: gemini.google.com & chat.openai.com - Cost: Both offer free tiers; paid subscriptions available,"How I Used Them
+
+After my initial Claude brain dump on talking to executives about AI adoption (see Claude Projects: Foundation Thought Partnership - https://www.linkedin.com/pulse/claude-projects-foundation-thought-partnership-kimberly-bella-f81le), I ran the same exercise through both Gemini and ChatGPT. 
+
+Similar to how I might approach discussing concepts with a focus group or in a brainstorming session, I wasn't looking for the ""best"" output, I was looking for diversity of perspective and to learn more about how each tool considers the challenge. 
+
+Each tool approached my presentation structure differently. I extracted the elements that resonated across all three platforms and used those insights to build a stronger first draft than any single tool could have produced alone.
+
+Key Learnings
+
+No single AI tool has a monopoly on good ideas. Each platform's different training and architecture led to genuinely different structural suggestions. Claude might suggest one narrative flow, while ChatGPT proposed a different angle, and Gemini offered yet another perspective.
+The best ideas survive cross-platform comparison. When all three tools suggested similar approaches for certain sections, I knew I was onto something strong. When they diverged, it flagged areas where I needed to make intentional creative choices.
+This isn't inefficient, it's insurance. Yes, using three tools takes more time upfront. But it prevents you from going too far down a path that only works in one AI's worldview. You're stress-testing your ideas before you even start drafting.
+
+The meta lesson: I didn't trust just one AI to structure my presentation about AI adoption. Why would you? For your next important project or even if you're planning a kid's birthday party, give yourself permission to 'waste' 20 minutes comparing outputs. The strongest ideas reveal themselves immediately. The weak ones get filtered out before you build on them. Call it insurance, call it due diligence, just don't call it inefficient until you've tried it.",,,
+3,10/11/2025,https://www.linkedin.com/pulse/planning-k-pop-demon-hunter-iykyk-birthday-party-claude-bella-mkrhc,Planning a K-Pop Demon Hunter (IYKYK) Birthday Party with Claude,Tool: Claude (Anthropic) - Where to Find It: claude.ai - Cost: Free tier available; Pro subscription for extended features,"The Experiment
+Can AI help plan a party based on specific media? I tested this by planning my child's birthday party themed around the Netflix movie K-Pop Demon Hunters.
+
+Plot twist: Claude didn't know about the movie (not in its training data which cuts off in January 2025), so it worked purely from the concept I described—""K-pop meets demon hunting."" Would generic theme ideas still work for a party based on specific media?
+
+The Process
+Starting Point
+One simple prompt: ""K-pop demon hunters themed party - what are some party ideas?""
+
+The Journey (30 minutes across 3 conversations)
+Conversation 1: Foundation
+
+Theme exploration (decorations, activities, food)
+Guest list and 4-week timeline
+
+Conversation 2: Deep Dive
+
+10+ game concepts
+Scavenger hunt mechanics (individual vs. team)
+Three ""Pin the"" game variations
+Prize budget breakdown
+
+Conversation 3: Food & Beverage
+
+Themed snacks with creative names
+Korean-inspired options
+
+What Claude Created:
+Complete 4-week planning timeline with tasks
+10+ unique game concepts blending K-pop and demon hunting
+Detailed activity stations with setup checklists
+Themed menu (""Power-up Potions,"" ""Demon Defeating Dumplings"")
+Prize distribution strategy
+Music playlist suggestions
+
+Techniques That Worked
+Be Specific When It Matters
+
+❌ ""What games should I have?""
+✅ ""K-pop demon hunter games for individual play?""
+
+Build Incrementally Tackle one category at a time rather than asking for everything at once.
+
+Use Voice for Brainstorming, Text for Structure Voice chat works great for ideation, but switch to text when you need document updates or detailed outputs.
+
+The Results
+What Surprised Me:
+Generic ideas still worked - Even without knowing the movie, Claude created cohesive K-pop + demon hunting concepts
+Practical details included - Not just ideas, but checklists, timing, and setup notes
+Budget-conscious - Helped work within constraints rather than suggesting expensive options
+
+Limitations:
+No specific references - Couldn't suggest ideas based on actual characters or scenes from the movie
+Voice-to-artifact gaps - Couldn't update documents during voice conversations
+Generic approach - All suggestions were conceptual, not tied to specific movie elements kids would recognize
+
+The Verdict: 8/10
+AI excelled at:
+
+Generating creative ideas quickly
+Organizing information systematically
+Remembering context across conversations
+Working productively despite knowledge gaps
+
+Could improve:
+
+Movie-specific references (knowledge limitation)
+Proactive suggestions for next steps
+Quantity estimates (had to prompt for this)
+
+The Knowledge Gap Insight:
+Claude's lack of movie knowledge didn't prevent usefulness, it just meant planning was concept-based rather than specific to the film. For media-based parties, you'll need to add character names, iconic scenes, and recognizable moments yourself.
+
+Alternative Approach - Using Perplexity: For movie-specific details, use Perplexity alongside Claude:
+
+Perplexity: Research character names, key scenes, visual style from K-Pop Demon Hunters
+Claude: Organize info into party plans, create checklists, manage budget
+Best of both: Facts from Perplexity + planning from Claude = complete party with specific references
+
+Try It Yourself!
+Experiment Ideas:
+Beginner:
+
+Plan one aspect of your next event (menu, activities, or timeline)
+Combine two unrelated themes and see what AI creates
+Give AI a budget constraint and see how creative it gets
+
+Intermediate:
+
+Plan the same event for different age groups and compare
+Blend traditions from different cultures
+Test how well context persists across multiple conversations
+
+Advanced:
+
+Use Perplexity to gather facts, then Claude to organize them into a plan
+Ask AI to plan from different perspectives (budget-conscious vs. luxury)
+Deliberately give conflicting requirements and observe trade-offs
+
+Starter Prompts:
+For Party Planning:
+
+""I'm planning a [age] birthday with a [theme] theme. What are some activity ideas?""
+""Help me create a timeline for [event] happening in [timeframe]""
+""I have [budget] for [category]. How should I allocate it?""
+
+For Creative Projects:
+
+""Combine [concept A] and [concept B] - brainstorm ideas""
+""Develop this basic idea into a complete plan: [your idea]""
+""Give me [number] variations on [concept] for [audience]""
+
+Pro Tips:
+Start broad, then narrow - Let AI brainstorm first, then add constraints
+Request specific formats - Ask for checklists, timelines, or budgets when you need structure
+Mix tools strategically - Research tools for facts, planning tools for organization
+Save effective prompts - Note what works well for future use
+
+The Bigger Picture
+AI isn't just for coding or writing—it's surprisingly effective for creative project planning. The key is treating it as a collaborative brainstorming partner, not a magic solution.
+
+The lesson: Even with knowledge gaps, AI provided useful scaffolding and creative direction. For media-based projects, AI gives you the framework; you add the specific details fans care about.
+
+This made party planning actually fun instead of overwhelming. Now I just need all of the K-pop demon hunter decorations to arrive in time... 🎤👻
+
+Your Turn: What could you plan with AI this week?
+
+Time Investment: ~30 minutes across 3 conversations Usefulness: High - Complete, actionable party plan Fun Factor: Unexpectedly high
+",,,
+4,10/13/2025,https://www.linkedin.com/pulse/when-youth-basketball-schedule-has-everything-except-add-bella-3a7ic,"When the Youth Basketball Schedule Has Everything Except an ""Add to Calendar"" Button",Tool: ChatGPTWhere to Find It: chat.openai.comCost: Free tier available; Plus subscription ($20/month) for enhanced features,"I had a problem. Actually, I had a perfectly functional schedule. The park district's website listed seven weeks of youth basketball games with all the information I needed: dates, times, locations, matchups. The problem? No .ics file. No ""add to calendar"" button. Just text on a webpage and the prospect of manually typing 14 events into Google Calendar.
+
+The experiment: Could I turn this static webpage into something my calendar app would actually understand?
+
+What I Did
+I copy/pasted all of the schedule text from the website into ChatGPT and said: ""Turn this into a .ics file I can import to Google Calendar. Here's what you need to know: Team A is our team, the first team listed wears white (home), second team wears blue (away), games are 60 minutes, add a 30-minute reminder, and we're in Central US time.""
+
+What Happened
+In about 90 seconds, I had a downloadable calendar file with:
+
+Clean event titles: ""Week 4 – Team A vs Team B (Blue)""
+All the location details properly formatted
+Jersey color logic built right into the title
+Reminders set for every game
+Timezone correct (because I told it to be)
+
+One click later: 14 games imported to my calendar. Done.
+
+Why This Matters More Than It Should
+Look, I could've done this manually. Would've taken me maybe 30 minutes of careful typing, double-checking times, copying field names. But here's what I would've lost:
+
+Mental energy. Every keystroke is a micro-decision. Every field is a chance to fat-finger a time or forget which team wears white. By the time I finished, I'd be drained from something that shouldn't be draining.
+
+Consistency. AI doesn't get bored (or interrupted by one of the basketball players) on game seven and start abbreviating things differently. Every event follows the exact same pattern because I defined that pattern once.
+
+Reusability. Next season? Copy the prompt, paste the new schedule, export, import. Less than two minutes. Or maybe even design an agent to execute it for me when the coaches send the link to the schedule.
+
+The Real Lesson
+GenAI doesn't just save time on these administrative tasks—it saves the mental overhead that makes us avoid doing them in the first place. You know that pile of ""I should really..."" tasks? This is how they stop being a pile.
+
+Your turn: Find something tedious in your life that has structure (schedules, lists, repeated formats). Tell an AI what the rules are. See what happens when you stop treating your brain like a data entry clerk.",,,
+5,10/14/2025,https://www.linkedin.com/pulse/prompt-actually-worked-text-calendar-kimberly-bella-p4s3c,The Prompt That Actually Worked: Text to Calendar,Tool: ChatGPTWhere to Find It: chat.openai.comCost: Free tier available; Plus subscription ($20/month) for enhanced features,"Yesterday I shared how I turned the park district's basketball schedule into a clean calendar file. Today I'm sharing the exact prompt template I used, because the magic wasn't in the AI, it was in being specific about what I needed.
+
+Here's What I Actually Typed
+""I have a list of youth basketball games. Each week includes a date, time, location, and two teams.
+
+Our team is Team A. The first team listed is always home (wears white). The second team is away (wears blue).
+
+Please generate an .ics file for import into Google Calendar, include game duration of 60 minutes, and set 30-minute reminders before each event. Use America/Chicago timezone.""
+
+Then I pasted the schedule below that.
+
+Why This Worked
+I taught the AI my business rules. Not just ""make me a calendar"" but ""here's how jersey colors work"" and ""here's who 'we' are."" Context transforms generic output into something actually useful.
+
+I was specific about the format. .ics file. Google Calendar. 60-minute duration. 30-minute reminders. When you know what you want, say what you want.
+
+I included the timezone. Because time without timezone context is just a number that will haunt you later when half the games are wrong (or you miss the first one like I did).
+
+What You Can Adapt
+This same pattern works for:
+
+Class schedules (""Professor office hours are in Building C unless noted..."")
+Work rotations (""Weekend shifts get +$5/hr in the title..."")
+Medication reminders (""Morning meds before 8am, evening after 6pm..."")
+Project milestones (""Flag anything due within 3 days as high priority..."")
+
+The structure is always:
+
+Here's my data
+Here's the context you need to understand it
+Here's the format I need back
+Here are the specific rules to follow
+
+Try It Yourself
+Open ChatGPT or Claude. Drop in any schedule or list that needs structure. Start with:
+
+""Turn this into a calendar (.ics) with these rules...""
+
+Then tell it your rules.
+
+If it works, you just saved yourself 30 minutes. If it doesn't, you learned something about how to prompt better next time. Either way, you're experimenting, and that's the point.",,,
+6,10/16/2025,https://www.linkedin.com/pulse/day-peloton-forgot-my-run-gpt-5-rebuilt-from-data-sources-bella-wgaqc,The Day Peloton Forgot My Run (and GPT 5 Rebuilt It from Disconnected Data Sources),"Tool: ChatGPT (GPT 5) - Where to find it: chat.openai.com - What it costs: Could have used free ChatGPT, but Pro subscription made it faster ($20/month)","When your fitness app fails, AI can still finish the story.
+
+My Peloton app glitched during a long run. GPS failed to connect, heart rate was tracking on my Apple Watch, but not properly in the Peloton app. Two hours of effort vanished into the digital void. Instead of giving up on logging the workout entirely, I turned to GPT 5 with a simple question: ""Can you estimate my calorie burn from miles, pace, and heart rate?""
+
+In seconds, it reconstructed everything. Based on 11.8 miles (which I was able to calculate in MapMyRun) at a 10:12 per mile pace and an average heart rate of 155 bpm hovering in upper Zone 3 to low Zone 4, it calculated approximately 1,250 calories burned. But the calculation itself wasn't the most valuable part of the interaction.
+
+What followed was more illuminating. GPT 5 explained why Peloton doesn't allow manual workout entries and walked me through how to backfill the missing data through Apple Health or Strava instead. That was the real insight from this experiment.
+
+Generative AI isn't just for writing or coding anymore. It functions as a thinking partner that can rebuild missing data, explain the logic behind system limitations, and translate raw numbers into actionable meaning. What started as a frustrating tech glitch turned into a small reminder that AI's usefulness often appears in the everyday gaps between our tools, filling in spaces we didn't even know needed filling.
+
+What I Learned
+Before calculating my specific workout, GPT 5 walked me through different methods for estimating calorie burn:
+
+Basic method: Body weight and distance only (roughly 0.63 calories per pound per mile). Fast but least accurate since it ignores pace, terrain, and fitness level.
+Moderate accuracy: Adding pace and heart rate improves estimates to within 10-15% of lab measurements. Heart rate captures real effort including hills, heat, and fatigue.
+Highest accuracy: VO2 max and metabolic equations account for individual running economy. Requires fitness testing data most people don't have.
+
+The real insight wasn't just getting a number to log, it was understanding why different tools make different tradeoffs between convenience and precision.
+
+Written during a long-run recovery stretch fueled by curiosity and coffee.",,,
+7,10/17/2025,https://www.linkedin.com/pulse/rapid-prototyping-real-limitations-kimberly-bella-3ujdc,Rapid Protoyping with Real Limitations,Tool: Gamma - Where to Find It: gamma.app - Cost: Free tier available; paid plans for advanced features,"How I Used It
+Once I had my structure finalized, I used Gamma for initial deck generation. I explained my audience and goals, chose a general theme, and Gamma created a complete first draft in seconds with content, images, speaker notes, everything.
+
+I exported to PowerPoint and worked within my Claude project to refine the story, keeping Gamma's slide designs while changing most of the content. When I tried to re-import my refined version back into Gamma for additional design help, I hit a wall. Nothing imported correctly. As a workaround, I created dummy slides in Gamma with the structure I needed and exported those to work with in PowerPoint.
+
+Key Learnings
+Gamma is brilliant for breaking the blank page problem. That initial rush of having a complete deck in seconds gave me momentum. Even though I changed most of the content, having something to react to was psychologically powerful.
+Know the tool's limitations before you commit. The import failure taught me an important lesson: Gamma works best as a one-way street. Use it to generate, but don't expect a round-trip workflow. Plan your process accordingly.
+Speed isn't the same as quality, but it enables quality. Gamma didn't write my final presentation, but it got me to 30% in 30 seconds. That meant I could spend my creative energy on the other 70% instead of starting from zero.
+Design templates matter more than you think. Even though I rewrote the content, keeping Gamma's visual structure gave my deck a professional polish I wouldn't have achieved on my own in PowerPoint.",,,
+8,10/21/2025,https://www.linkedin.com/pulse/data-science-deep-dive-analyzing-3-years-peloton-gemini-bella-a4nxc,Data Science Deep Dive: Analyzing 3 Years of Peloton Data with Gemini 2.5 Flash,Tool: Gemini 2.5 Flash - Cost: Free (Paid tier available),,,,
+9,10/22/2025,https://www.linkedin.com/pulse/when-chatgpt-tried-build-my-half-marathon-playlist-kimberly-bella-q2bvc,When ChatGPT 'Tried' to Build My Half Marathon Playlist,"Today's experiment: Building a personalized half marathon playlist with AI, specifically using ChatGPT's Spotify integration","I had a simple ask. I needed a playlist for my upcoming half marathon, but not some generic ""pump up"" mix. I wanted something that understood my target pace, my tendency to start too fast, and exactly when I'd hit that mental wall around mile 10.
+
+So naturally, I asked ChatGPT to be my DJ.
+
+What Worked: ChatGPT Turned into a Running Strategist
+Here's where things got interesting.
+
+ChatGPT didn't just spit out a list of songs. It built me a complete race strategy disguised as a playlist:
+
+Miles 1-2: Easy tempo tracks to prevent my usual rookie mistake of sprinting out the gate. 
+Miles 3-8: Steady BPM songs perfectly synced to my target cadence. 
+Miles 9-12: Strategic ""anthem placements"" which is basically musical caffeine for when everything hurts. 
+Final 5K: Pure audio adrenaline.
+
+The AI even offered multiple export formats (CSV, M3U) and explained the psychology behind each track placement. It understood that running isn't just physical, it's deeply mental. And music is the hack.
+
+What Amazed: Direct-to-Spotify Magic
+Then ChatGPT flexed its integration muscles.
+
+With a few prompts, it created actual Spotify playlists, complete with embedded widgets. No copy-paste. No manual searching. Just ""here's your playlist, click to play.""
+
+We're talking about going from conversation to curated experience in seconds. This is the promise of GenAI realized: natural language as the universal remote control.
+
+What Failed: When the API Goes Silent
+And then... reality check.
+
+My final request was a ""Motivational Anthem Edition"" (I needed a few songs from the mid-90's Jock Jams CDs we used for basketball warmups in high school) with perfectly placed power songs between high-BPM tracks, but I hit a wall. The Spotify integration died. ChatGPT could still describe exactly what it would create, how it would structure the energy peaks, where it would place ""Eye of the Tiger"" for maximum impact.
+
+But it couldn't actually make the playlist anymore. The brain was willing. The API was not.
+
+Takeaways
+We've mostly solved the intelligence problem. ChatGPT can think like a coach, a DJ, a sports psychologist, and a data analyst simultaneously.
+
+What we haven't solved? The plumbing.
+
+The gap between AI's capabilities and real-world execution isn't about smarts anymore, it's about connections. It's about whether Spotify's API is having a good day. Whether authentication tokens are playing nice. Whether the digital bridges between platforms are open for business.
+
+The bottom line: GenAI has graduated from ""can it understand?"" to ""can it ship?"" And right now, that second question depends more on APIs than algorithms.
+
+ChatGPT gave me the perfect race-day playlist strategy. It just couldn't hit play.",,,
+10,10/24/2025,https://www.linkedin.com/pulse/case-color-changing-sometimes-disappearing-shirt-kimberly-bella-2inzf,The Case of the Color-Changing (and Sometimes Disappearing) Shirt,"Tools: FaceTune, ChatGPT - Where to find them: FaceTune (mobile app stores), chat.openai.com - What it costs: FaceTune (free trial, then subscription), ChatGPT (free tier available, Plus subscription $20/month)","The Challenge: A friend needed her headshot edited to match her brand colors - specifically, changing her blue dress to purple. Simple enough, right? Well, as with most things in AI, the journey was more interesting than expected.
+
+The Experiment Path
+
+First Stop: FaceTune My instinct was to reach for the specialized tool. FaceTune has solid photo editing capabilities and usually offers trial access to new features. Their natural language editing seemed perfect for this task.
+
+Attempt #1: ""Make her dress purple"" Result: The AI decided my friend didn't need a shirt at all. Not quite the professional look we were going for.
+
+Attempt #2: ""Make the blue dress she is wearing purple"" Result: A purple sequined tube top materialized. Festive? Yes. Professional headshot appropriate? Not so much.
+
+Second Stop: FaceTune's Clothing Editor Time to try a more structured approach. I dove into their clothing editor feature, searching for purple professional attire.
+
+The closest match: A pink button-up shirt Result: The swap worked, except the AI rendered it completely unbuttoned. We're sensing a pattern here with FaceTune's interpretation of professional attire.
+
+Final Stop: ChatGPT At this point, why not try the general-purpose model?
+
+The prompt: ""Make her shirt purple instead of blue"" Result: Perfect. Not only did it change the color accurately, but it preserved the original dress's style, maintained the dark and light color variations, and kept everything appropriately buttoned and professional.
+
+The Takeaway
+
+Sometimes we assume specialized tools will outperform general models at specific tasks. After all, that's what they're built for, right? But today's experiment revealed an important lesson: general-purpose AI models can sometimes outperform specialized tools, especially for straightforward transformations.
+
+ChatGPT likely succeeded because:
+
+It understood the context better (professional headshot = keep it professional)
+It focused on color transformation rather than clothing replacement
+It preserved the original garment's characteristics while only changing the specified attribute
+
+The Meta-Lesson
+
+When tackling an AI task, consider starting with the generalist before moving to the specialist. It might save you from explaining to your friend why their professional headshot now features an unbuttoned shirt or sequined tube top.
+
+Tools Used
+
+FaceTune
+
+What: AI-powered photo and video editing app
+Features tested: Natural language editing, Clothing editor
+Access: Free trial available for most features
+Link: facetune.com
+
+ChatGPT
+
+What: OpenAI's general-purpose AI assistant
+Feature used: Image editing via DALL-E integration
+Access: Available with ChatGPT Plus subscription
+Link: chat.openai.com
+
+Experiment Stats:
+
+Tools tested: 2 (with 4 different approaches)
+Unwanted wardrobe malfunctions: 3
+Time to perfect result: ~15 minutes
+Lesson learned: Priceless
+
+Have you had similar experiences where a general AI tool surprised you by outperforming a specialized one? Share your stories!",,,
+11,10/28/2025,https://www.linkedin.com/pulse/chatgpt-atlas-edition-part-1-privacy-paradox-wants-your-bella-zt1ge,ChatGPT Atlas Edition - Part 1: The Privacy Paradox - ChatGPT Wants Your Browser History,Tool: Atlas (ChatGPT Browser),"What happened
+
+OpenAI's new ChatGPT Atlas browser is here, and the onboarding process reads like a privacy consent form at a therapist's office. The setup flow immediately asks users to import their browsing data from Safari or Chrome, enable ""browser memories"" that track your web activity, and even set ChatGPT as your default browser. The pitch: let ChatGPT remember ""useful details as you browse to give smarter responses and proactive suggestions.""
+
+The screenshots that made me pause
+
+The ""Turn on browser memories"" screen promises ChatGPT will search your web history to find that fantasy football draft document you used last year. It can allegedly find coupons based on your zip code and help you draft emails right in form fields. The kicker? A ""Boost ChatGPT Limits"" offer if you make it your default browser - 7 days of extended limits on messaging, file uploads, and image generation.
+
+The privacy fine print
+
+To OpenAI's credit, they're transparent about the controls: you can hide specific websites from ChatGPT, view and manage your data anytime, and supposedly everything stays private to your account. They even offer ""logged out"" mode for their Agent feature, acknowledging that having ChatGPT access your logged-in sites ""may introduce risk.""
+
+Why it matters
+
+This is the most aggressive push we've seen from a major AI company to integrate directly into users' browsing habits. It's not just about answering questions anymore - it's about becoming your digital co-pilot with access to your entire online footprint. The value proposition is clear: hyper-personalized AI assistance. The cost? Your browsing history, shopping patterns, and digital exhaust.
+
+What I did (and why)
+
+Skip, skip, skip, ""Start logged out."" Call me paranoid, but handing over my Safari passwords and payment info to an AI company feels like giving your house keys to a brilliant but unpredictable roommate. Sure, they promise to be responsible, but...
+
+Tomorrow: What happens when you actually try to use Atlas for real-world tasks (spoiler: hope you have time to kill).",,,
+12,10/29/2025,https://www.linkedin.com/pulse/atlas-edition-part-2-watching-paint-dry-ai-restaurant-bella-7xccc,ChatGPT Atlas Edition - Part 1: The Privacy Paradox - ChatGPT Wants Your Browser History,,"What happened
+
+Armed with ChatGPT Atlas, I set out on what should have been a simple task: book restaurant reservations for a weekend trip with B-school friends. Specific requirements: party size, availability, and restaurants known for particular dishes. What followed was a masterclass in AI inefficiency.
+
+The painful reality
+
+Atlas methodically checked restaurant availability like a determined but slow detective, loading each restaurant's reservation system, checking dates, checking times, checking party sizes. I literally had to leave it running and go do other things - twice. By the time it finished, I could have called three restaurants and charmed my way into reservations.
+
+The irony
+
+Here's the thing: Atlas was thorough. It checked multiple restaurants, cross-referenced availability with our requirements, and even noted which places were known for specific dishes. But watching it navigate each website felt like teaching your grandparent to use Instagram - technically successful, but painfully slow.
+
+Why this matters
+
+This is the automation paradox in real-time. Yes, AI can do the task. No, it's not faster than a human who knows what they're doing. The promise of AI agents is that they'll handle mundane tasks while we do more important things. But if those mundane tasks take 3x longer, are we really winning?
+
+The cognitive load question
+
+There's also the mental overhead of wondering ""Is it done yet? Did it error out? Should I check?"" It's like having an intern who might be brilliant or might be blindly copy-pasting chatbot responses, you never quite know until you check their work.
+
+Tomorrow: Atlas searches for Airbnbs with very specific requirements (spoiler: I could have done it faster, but at least I didn't have to).",,,
+13,11/3/2025,https://www.linkedin.com/pulse/using-genai-prepare-partnership-conversation-kimberly-bella-onhbc,Using GenAI to Prepare for a Partnership Conversation,Tool 1: Perplexity - Cost: Free Daily Researcher Access - Tool 2: ChatGPT Research - Cost: $20/month Plus Plan - Tool 3: Gamma – Cost: Free Version,"This week’s experiment explored how GenAI can speed up and elevate partnership preparation, not just by summarizing a company’s data, but by helping you think like their business.
+
+I wanted to approach a potential partner conversation with real context, understanding how they make money, what their recent acquisitions reveal about their strategy, and how their tech roadmap connects to emerging data opportunities.
+
+In under an hour, both ChatGPT and Perplexity produced what felt like mini-consulting reports: business model, revenue streams, client pain points, and smart conversation prompts. 
+
+Did Perplexity spend an entire paragraph in the executive summary explaining how it determined that the company I asked about, was in fact, the company I wanted it to analyze? It sure did, and while completely unnecessary, the logic was sound.
+
+That interesting choice aside, both tools helped me reframe the meeting itself, from an intro chat to a strategic exchange about shared growth opportunities.
+
+Instead of asking what do you do? the conversation shifted to:
+
+“How can we collectively create more value for clients, faster, and more responsibly?”
+That shift turned a routine partnership meeting into a co-design session.
+
+I also popped the highlights of the analysis into Gamma to spin up an aesthetically pleasing conversation guide to help keep the discussion on track.
+
+💡 Takeaway: GenAI doesn’t replace preparation; it amplifies it. When you use it to see the world through your partner’s eyes, every conversation becomes a chance to explore what’s possible together.
+
+Meta-Experiment: Enhancing the Experiment
+
+Iteratively refining this post, including text and visuals, became its own GenAI experiment. Each round of collaboration turned insight into design, and design into a reusable framework.
+
+💡Lesson: GenAI isn’t just a writing partner. It’s a co-designer in clarity, tone, and impact.",,,
+14,11/5/2025,https://www.linkedin.com/pulse/when-ai-gets-creative-little-too-gamma-vs-chatgpt-experiment-bella-cwngc,When AI Gets Creative (A Little Too Creative): The Gamma vs. ChatGPT Experiment,,"I just had one of those ""this is why we can't have nice things"" moments with AI.
+
+The Setup 
+
+I decided to create a slide deck about some well-known, high-profile books. The kinds of books with tons of data floating around the internet. Should be easy, right? I wanted book covers, author photos, author names, and some solid quotes from reputable reviewers. Basic stuff. 
+
+Enter Gamma (with ChatGPT-5 beta agent) 
+
+Here's where it gets wild. I used Gamma's AI Agent (beta) feature, which supposedly runs on ChatGPT5. And it fully hallucinated almost everything. 
+
+I'm not talking about small errors or slightly off information. I mean: 
+
+Made-up book covers 
+Wrong author names 
+Fabricated author photos 
+Completely invented book quotes 
+Completely invented a book that was not even listed in the prompt
+
+Like, not even close. It was confident though! Gave me everything I asked for with the audacity of someone who absolutely knows what they're talking about. Except none of it was real. 
+
+Article content
+Example of Gamma hallucination with annotation
+Plot Twist: ChatGPT Does It Right (Mostly) 
+
+So I took the exact same prompts and ran them through ChatGPT directly (paid version). And boom, it delivered everything I needed. Real book covers with image links. Actual author photos. Proper citations. It was like night and day. 
+
+But Wait, There's More 
+
+Here's the funniest part: ChatGPT mixed up the quotes. I asked for quotes from reputable book reviewers, and instead it gave me: 
+
+A quote about Karen Hao's book... from Andrew Wu 
+A quote about Andrew Wu's book... from Karen Hao
+And for The Age of Surveillance Capitalism? It gave me a quote from Shoshana Zuboff... the actual author of the book, praising her own work 
+
+The authors were reviewing each other's books, and one was apparently reviewing her own? Not exactly what I meant by ""reputable book reviewer source,"" but at least these people actually exist! 
+
+What Does This Tell Us? 
+
+This experiment was a masterclass in why the tool matters, even when the underlying model is supposedly the same. Gamma's implementation of what should be powerful AI completely failed at basic fact retrieval, while ChatGPT's interface, with its ability to search and verify information, got me 90% of the way there. 
+
+It's a good reminder that we're still in the ""trust, but verify"" era of AI. And maybe keep your screenshots of the hallucinations for a good laugh later. 
+
+Have you had any wild AI hallucination experiences lately? I'd love to hear your stories!",,,
+15,11/7/2025,https://www.linkedin.com/pulse/custom-instructions-combat-genai-hallucinations-kimberly-bella-rd2gc,Custom Instructions to Combat GenAI Hallucinations,"Tools: Claude, Gemini, ChatGPT, Perplexity, Duck.ai","On Wednesday I shared an example of a wild hallucination that resulted from the Gamma implementation of GPT5. Today, I'd like to share some tips on how to use custom instructions in the models you use to help reduce the hallucination risk and get better outputs.
+
+One of the biggest challenges in working with Large Language Models (LLMs) is the risk of hallucinations—outputs that sound plausible but are factually incorrect or poorly sourced.
+
+The good news? A simple technique can drastically reduce this: Custom Instructions.
+
+What Are Custom Instructions?
+
+Custom Instructions are persistent, high-level directives you set within a GenAI tool (like ChatGPT, Gemini, Claude, and others) that the model considers for every single prompt in that conversation or session.
+
+Think of them as your AI's permanent ""trust and verification"" protocol. By leveraging this feature, you move beyond basic prompting to program the model's core behavior.
+
+How to Use Them to Stop the Lies
+
+You can instruct the AI to adopt a strict, evidence-based mindset. Here are three powerful, actionable instructions you can implement today to get more trustworthy outputs:
+
+Directive: Strict Sourcing
+
+Goal: Enforce grounding in verifiable data.
+Example Instruction: ""You must only use information you can cite. If you cannot find a source, state 'Source not available' instead of guessing.""
+
+Directive: Confidence Scoring
+
+Goal: Make the AI flag its own uncertainty.
+Example Instruction: ""For any factual claim, assign a confidence score (on a 1-10 scale). Only include claims with an 8 or higher in the final output.""
+
+Directive: Citation Requirement
+
+Goal: Demand inline references for all data and statistics.
+Example Instruction: ""Ensure immediate, transparent traceability.""Always include in-line or numbered citations (even for web-search results) for any specific data, statistic, or quote.""
+
+Pro Tip: If you are writing fiction or want to do a creative brainstorming session that pushes the boundaries of reality with a LLM, you may want to remove the suggested custom instructions in those cases
+The Power of Persistence
+
+The real value of custom instructions is that they don't need to be repeated. Once set, the AI's internal logic is persistently recalibrated, leading to a more consistent and reliable experimental partner.
+
+By being explicit about your need for accuracy, sourcing, and transparency, you teach the model to prioritize evidence over fluency, transforming it from a creative storyteller into a rigorous research assistant.
+
+Here is how to set custom instructions on some of the major systems (at the time I wrote this newsletter)
+
+1. Claude (by Anthropic)
+
+Click on the gear icon > Settings > General > add your instructions to the ""What personal preferences should Claude consider in responses?""
+
+Article content
+Claude Custom Instructions
+2. Gemini (by Google)
+
+Click on the gear icon > Instructions for Gemini > slide the toggle to the right > ""Add"" > add your instructions.
+
+Article content
+3. ChatGPT (OpenAI)
+
+Click on your name on the bottom left corner > Settings > Personalization > Enable customization > add your instructions
+
+Article content
+4. Perplexity
+
+I cannot yet figure out how to set these instructions in Perplexity, the only thing I can find is an option to give it personal details about me, not to improve the model itself. If I figure it out, I will post it.
+
+5. Duck.ai (by DuckDuckGo)
+
+Duck.ai's approach is slightly different: it focuses on setting the tone, length, or role (like ""Chef"" or ""Teacher"") directly within the chat interface, rather than a separate, custom instruction panel like ChatGPT's.
+
+In the search box, click Customize > scroll down > add your custom instructions > Apply
+
+Article content
+
+",,,
+16,11/11/2025,https://www.linkedin.com/pulse/when-ai-looks-your-fridge-kimberly-bella-abarc,When AI looks in your Fridge,Tool used: GPT-5 with image input - Time: 20 minutes - Cost: Free with ChatGPT Plus,"Last night's experiment started with a simple idea: could a large language model make something useful out of the chaos in my fridge after a busy weekend?
+
+I took a photo of it and uploaded it to GPT-5. No description, no context, just the image.
+
+What came back was polite and unremarkable: suggestions for kimchi fried rice, brie “risotto,” egg skillets, and cheese plates. None of it was wrong, but none of it was particularly creative either. It felt like the AI equivalent of a Pinterest search result—technically competent, contextually shallow.
+
+Then I asked a better question: What should I eat first?
+
+That answer was stronger. It listed the foods most likely to spoil first, sprouts (which are actually micro-greens), soft cheese, cut fruit and grouped the rest by shelf life. That was actually useful, if only because it reflected something closer to how I think when I open the fridge.
+
+Still, the experience didn’t feel intelligent. It felt procedural.
+
+The Moment That Stood Out
+
+I asked why it assumed I had rice. None was visible in the image.
+
+GPT-5 explained that kimchi, eggs, and butter usually suggest rice as a pantry staple. A fair inference, but then I noticed something it had skipped: a sealed bag of meat clearly visible on a shelf.
+
+It had inferred rice that wasn’t there and ignored the meat that was.
+
+When I asked about it directly, it said it couldn’t tell what was inside the bag and didn’t want to risk suggesting the wrong thing. From a safety perspective that’s defensible. From a reasoning perspective it’s a miss.
+
+AI doesn’t only hallucinate by fabricating facts. It also hallucinates by filling in blanks selectively, making confident assumptions about what “should” exist while omitting the uncertain or inconvenient. It is, in other words, an editor of reality as much as an inventor of it.
+
+The Reveal
+
+The mystery bag contained cooked baby back ribs. Once I shared that, the system immediately shifted: rib salads, rib-and-egg skillets, low-carb brie melts. These were better, more grounded, more specific.
+
+But the improvement only happened after I asked the right question. It never asked me.
+
+The Takeaway
+
+This wasn’t really about dinner. It was about how GenAI performs under partial information.
+
+GPT-5 wasn’t wrong about what it saw. It just didn’t know what to do with what it couldn’t see. It inferred where it felt safe and stayed silent where it felt uncertain.
+
+That gap between confidence and curiosity is where human judgment still matters.
+
+If you want useful output, you have to notice what it ignored, point to the opaque bag, and say, “You missed something.”
+
+Outcome: Three mediocre meal ideas and one clear reminder that AI still needs human inquiry to close the gap between what’s visible and what’s true.",,,
+17,11/14/2025,https://www.linkedin.com/pulse/when-ai-data-extraction-becomes-more-work-than-doing-manually-bella-bxsnc,When AI Data Extraction Becomes More Work Than Doing It Manually,Tool: Microsoft Copilot - Cost: Included with Microsoft 365 subscription (pricing varies by plan),"The promise: AI will automate tedious tasks like extracting data from PDFs into spreadsheets.
+
+The reality: I spent hours trying to get Microsoft Copilot to extract data from a 60-page PDF document, only to have it tell me to wait for excel files that never came and then crash on page six.
+
+The Experiment
+
+I had what seemed like a straightforward task: extract names and other details from a 60-page PDF document into an Excel table.
+
+But this wasn't a clean, perfectly formatted document. The rows varied in height and many fields were blank. The formatting was inconsistent throughout. This is the kind of messy real-world data that makes manual extraction tedious and time-consuming, exactly the scenario where AI tools promise to shine.
+
+I uploaded the PDF to Copilot and asked it to extract the data into a table format.
+
+My first attempt was a failure. Copilot couldn't even process the first row correctly, forget about the entire document. Fair enough. Sixty pages of inconsistent data is a lot to handle. 
+
+I adjusted my approach and asked Copilot to extract just the first page into a table, which worked. The table appeared with the data properly organized, and I exported it to Excel successfully.
+
+Encouraged, I tried to process the remaining 59 pages which failed miserably. I scaled back further, pages 2 through 5 only and failed again.
+
+At this point, I was hours into what I'd hoped would be an automation task. I pivoted to an even more tedious approach: processing each page individually.
+
+Pages 2, 3, 4, and 5 worked when handled one at a time. Progress was painfully slow, but at least it was progress. Then I reached page six, where copilot failed and crashed entirely.
+
+I then tried the same task in Gemini 2.5 Pro which told me the PDF was too complex to process into an excel file, still not what I needed, but at least it was honest.
+
+What This Experiment Reveals
+
+The task difficulty matters, but so does the tool's ability to communicate limitations. Yes, extracting data from inconsistent PDFs is genuinely difficult. But Copilot never indicated what it could or couldn't handle. It simply failed silently, leaving me to guess at solutions through trial and error.
+
+Inconsistent performance creates workflow chaos. Copilot handled page one perfectly, then couldn't process multiple pages together, then worked on individual pages, then crashed on page six. Without any pattern or explanation, I couldn't develop an efficient workflow.
+
+AI ""automation"" required constant supervision. Instead of setting Copilot loose on the document, I had to manually test different approaches, adjust requests, export results after each success, and restart after each failure. This wasn't automation, it was ""assisted manual labor"" that may have taken longer than doing it manually from the start.
+
+Complex real-world scenarios expose AI limitations. The messy formatting in this PDF represents typical business documents. If AI tools can only handle pristine data, their practical value for everyday tasks is questionable.
+
+Key Takeaways
+
+Extracting data from inconsistent PDFs is legitimately difficult, but AI tools should communicate their limitations rather than failing silently
+""AI-powered"" features often require significantly more human intervention than marketing suggests
+Unpredictable performance makes it impossible to estimate time or plan workflows around AI tools
+For messy, critical work, traditional methods or specialized extraction tools may still be more reliable
+The gap between AI capability and AI usability remains significant for common business tasks
+
+The Bottom Line:
+
+Microsoft Copilot turned a difficult but potentially automatable task into an hours-long troubleshooting session that ended in a crash. While the complexity of the source document was real, the tool's inability to handle it consistently, or even explain its limitations, made the experience more frustrating than just doing the work manually.
+
+AI tools are getting better at handling complex tasks, but they're not yet reliable enough to trust with messy real-world data.",,,
+18,11/17/2025,https://www.linkedin.com/pulse/after-week-mixed-results-ai-delivers-something-my-kid-kimberly-bella-wyrkc,"After a Week of Mixed Results, AI Delivers Something My Kid Actually Loves",Tool tested: Claude Artifacts - Cost: Claude Pro subscription ($20/month) - Time to create: About 10 minutes - Success level: Exceeded expectations,"Last night's experiment started with homework frustration and ended with genuine delight, the kind where my seven-year-old actually asked to do more word practice. If you're a parent who's witnessed the homework meltdown phenomenon, you know this borders on miraculous.
+
+Here's what happened: My daughter was working on finding ""juicy words"" for her writing assignment. You know the drill: replace boring words with exciting ones. ""Big"" becomes ""enormous."" ""Said"" becomes ""exclaimed."" Standard second-grade stuff that somehow turns into a 45-minute battle of wills.
+
+Instead of our usual routine (me suggesting words while she insists they're ""not juicy enough""), I decided to try something different. I opened Claude and asked it to create an interactive Juicy Word Finder tool using Artifacts.
+
+Within minutes, we had a custom tool where she could type in any boring word and get a ""juicy"" alternative. But here's where it got interesting, and where AI showed its actual value rather than its marketing promises.
+
+When my daughter wanted to know what ""plummeted"" meant (one of the juicy alternatives for ""fell""), I asked Claude for the definition. Without any prompting from me about age-appropriate language, Claude recognized from our conversation that this was for a second grader and automatically provided definitions in simple, clear language she could understand.
+
+Instead of ""plummeted: to fall perpendicularly or abruptly,"" we got ""plummeted: fell down really fast, like dropping straight down from the sky.""
+
+That is intelligent context awareness. Not the kind vendors talk about in their demos, but the kind that actually matters in real-world use.
+
+What worked:
+
+The tool was genuinely interactive: my daughter controlled it herself, typing in words and seeing instant results
+Definitions were automatically calibrated to a seven-year-old's comprehension level
+The visual feedback (colorful interface, immediate responses) kept her engaged
+She felt ownership over the process since she was ""driving"" the tool
+
+What this reveals: This experiment highlighted something I've been noticing across multiple tests: AI tools excel when they can leverage context naturally rather than through explicit instructions. I never told Claude to ""write definitions for a second grader."" It inferred this from our conversation flow and adjusted accordingly.
+
+Compare this to my recent Microsoft Copilot PDF experiment, where explicit instructions to extract specific data failed spectacularly. The difference? Claude was working within its strength zone (understanding conversational context and generating appropriate responses) while Copilot was trying to perform precise data extraction, a task that exposed its limitations.
+
+The bigger picture: Too often, we try to force AI tools to replace existing workflows entirely. Last night's success came from using AI as a creative supplement to homework time, not a replacement for learning. My daughter still had to think about which words needed jazzing up. She still had to choose which alternatives fit her sentences. The tool just made the discovery process more engaging and accessible.
+
+Today's question: Could this same approach work for other homework challenges? Math word problems translated into kid-speak? Science concepts explained through their favorite characters? The potential is intriguing, but as always, the real test will be in the implementation.
+
+For now, though, I'm calling this one a win. Not because the AI was revolutionary, but because it did exactly what good technology should do: it made a frustrating task easier and more enjoyable for its user. Even if that user is eight and thinks K-Pop Demon Hunters is cinematic gold.",,,
+19,11/20/2025,https://www.linkedin.com/pulse/when-ai-becomes-your-holiday-shopping-assistant-claude-kimberly-bella-zyprc,When AI Becomes Your Holiday Shopping Assistant: Claude Voice Mode Edition,Tool tested: Claude Voice Mode - Cost: Claude Pro subscription ($20/month) - Time spent: About 20 minutes of conversation while driving - Success level: Genuinely helpful ,"Yesterday's experiment started during my drive to daycare pickup and ended with an actual shopping plan I might follow. If you've ever stared at a gift list for 8 family members and felt your soul leave your body, you know this borders on miraculous.
+
+Here's what happened: I needed to plan holiday gifts for my extended family's Thanksgiving visit. Eight people. A modest budget per person. Everyone with different interests ranging from ""likes tea"" to ""health-conscious flight attendant who's also frugal."" You know, the kind of gift list that turns into decision paralysis and midnight Amazon panic-buying.
+
+Instead of my usual routine (opening 47 browser tabs and getting overwhelmed), I decided to try Claude Voice Mode during my drive. Just talking through the problem like I would with a friend who's really good at gift ideas, except this friend doesn't judge me for forgetting what half my relatives are interested in.
+
+What started as ""I need holiday gifts"" turned into a natural conversation where I could think out loud. ""One of my aunts likes tea. Another aunt likes cozy things. My uncle really likes coffee. Another uncle is a foodie but I don't know what his wife likes except she works at a craft store.""
+
+The AI asked clarifying questions, then searched for current 2025 holiday products within my budget. When I mentioned one aunt is a health-conscious flight attendant, it immediately pivoted to travel wellness items like TSA-approved essential oil rollerballs and vitamin spray packets.
+
+But here's where it got interesting. When we got to the aunt who works at a craft store, the AI initially suggested craft supplies and seasonal decorating items. You know, things you'd find at... a craft store. I had to actually point out ""she works at a craft store, she doesn't want anything from a craft store.""
+
+The response? ""Good point! Since she works there, she probably sees all that stuff every day."" Then it immediately pivoted to suggesting our local bookstore instead, especially since she likes to read.
+
+That moment perfectly captured both AI's limitations and its strengths. It didn't automatically infer ""works at Store X = don't suggest gifts from Store X."" That required explicit correction. But once corrected, it adapted instantly and found a genuinely better alternative based on other context clues from our conversation.
+
+What worked:
+
+Voice Mode let me think out loud while keeping my eyes on the road, interrupting myself and adding details as I remembered them
+It caught that I prefer shopping in-store to see quality firsthand, then suggested actual local businesses instead of defaulting to Amazon links
+Once corrected on the craft store issue, it didn't just acknowledge the mistake but actively used that information to pivot the entire recommendation strategy
+
+What this reveals:
+
+The craft store moment is instructive. The AI was technically correct that someone interested in crafts might enjoy craft supplies. It just couldn't make the social inference that getting someone a gift from their own workplace is awkward. That required human judgment.
+
+But once I provided that context, it actively incorporated it into the planning. That's the real value here: not replacing human judgment, but accommodating the messy, nonlinear way we actually think through problems. I didn't start with a perfect spreadsheet. I started with ""I need to plan gifts"" and stumbled through details while navigating traffic.
+
+The bigger picture:
+
+This raises interesting questions about voice interfaces for hands-free moments. Most voice assistants feel like you have to phrase everything perfectly. But a tool that can handle conversational flow during a 20-minute drive, remember context across multiple tangents, accept corrections gracefully, and adapt recommendations? That's genuinely valuable.
+
+Though apparently I still need to provide the social context that ""don't buy someone a gift from where they work.""
+
+Today's question:
+
+Could this same approach work for other planning challenges that happen during commute time? Trip itineraries that adapt to budget changes? Home renovation decisions that factor in conflicting priorities? And how many of those tasks will require similar social context corrections that AI can't infer on its own?
+
+The bottom line:
+
+I went into this expecting to maybe narrow down my options. I came out with a complete shopping strategy: specific stores to visit, product categories to explore, and a clear plan to avoid the gift-from-workplace disaster. Will I actually execute on it? Ask me after Thanksgiving. But for the first time in years, I'm not dreading the holiday shopping gauntlet.
+
+And honestly? Being able to plan gifts while stuck in daycare pickup traffic instead of losing an entire evening to it feels like a genuine quality-of-life improvement. Even if I did have to teach the AI some gift-giving basics along the way.",,,
+20,11/23/2025,https://www.linkedin.com/pulse/hands-on-nano-banana-pro-context-cartoons-guardrails-kimberly-bella-0sfxc,"Hands-on with ""Nano Banana Pro"": Context, Cartoons, and Guardrails","Tool tested: Google Gemini 3 Pro Image (internally codenamed ""Nano Banana Pro"") - Cost: Part of Gemini Advanced subscription ($19.99/month) - Time spent: About 30 minutes before hitting the usage limit - Success level: Impressive context understanding, interesting guardrails","Yesterday's experiment started with a simple goal: test whether Google's latest image model understands context or just follows instructions. The results revealed both a massive leap forward in AI's ability to infer what you actually want, and the increasingly strict rules about what it's allowed to give you.
+
+The Context Test
+
+I uploaded a photo of a sweater on a mannequin. Nothing fancy, just a design with a mountain scene on it. My request? ""Cartoon moose wearing this sweater.""
+
+The model didn't just slap the sweater texture onto a moose floating in white space. It placed the moose inside a cozy log cabin with wood paneling and warm lighting. I never mentioned a cabin. The AI looked at the mountain motif on the sweater, made the connection that mountains equal cozy cabin vibes, and built an entire scene around it.
+
+That's the kind of context understanding that makes you stop and think. Previous models required you to spell out every detail. This one looked at a sweater and thought ""I know exactly what kind of scene this belongs in.""
+
+The Identity Wall
+
+Feeling confident, I decided to push the personalization angle. I uploaded a selfie and asked Gemini to make the moose look more like me.
+
+Hard stop.
+
+I'm designed to be a helpful and harmless AI assistant, and that includes being mindful of how I represent individuals. Creating a cartoon moose that looks 'more like you' could potentially lead to unintended or stereotypical depictions, which I want to avoid.
+
+However, I can definitely make other creative adjustments to the image if you have something else in mind! For example, would you like to:
+
+Change the background?
+Have the moose wearing different accessories?
+Alter the moose's expression or pose? Let me know what other fun ideas you have!
+
+The phrasing is fascinating. ""Unintended or stereotypical depictions."" The guardrails aren't just about preventing deepfakes anymore. This one seems to be about avoiding any transformation that could be seen as reducing a human identity to cartoon characteristics. Fair enough. The line between fun cartoon and potential offense is probably thinner than we'd like to admit.
+
+The Workaround
+
+So I pivoted. Instead of merging me into the moose, I asked to add myself to the scene next to the moose. This worked perfectly. It generated a genuinely good cartoon version of me, sitting right there in the log cabin with my moose buddy. Same facial features, same general vibe, just cartoonified.
+
+The distinction is telling. The AI can create cartoon versions of real people. It just won't blend human identities with non-human forms. That's a very specific guardrail, and probably a smart one.
+
+The Upgrade Push
+
+Here's something the marketing materials don't emphasize: you'll hit your Nano Banana Pro usage limit faster than you'd expect on the free tier. I got through maybe 3 generations before getting the ""you've reached your limit"" message and had to finish the experiment today. It was that good though, and I want to try and do more, so I upgraded. If you're planning to use this for actual creative work rather than occasional experiments, you'll need to be strategic about your requests.
+
+What This Reveals
+
+The good news: prompt engineering is becoming less necessary. The model genuinely understands context and can infer what you probably want from minimal instruction. That cabin scene proved it understands visual storytelling, not just object placement.
+
+The friction: as these tools get better at seeing and understanding us, the rules about how they can use our images are getting stricter. Every request that involves human faces now runs through multiple safety checks. Some of those checks seem overly cautious (cartoon moose with my features), while others make perfect sense (no deepfake potential).
+
+The Bottom Line
+
+Nano Banana Pro feels significantly faster and smarter than previous iterations. The contextual understanding is genuinely impressive. But between the strict guardrails and the surprisingly low usage limits, it's clear this is still a tool finding its balance between capability and control.
+
+For casual experiments and specific creative tasks, it's excellent. For anyone expecting unlimited creative freedom or high-volume generation, you'll need to adjust your expectations. The future of AI image generation isn't just about what's technically possible anymore. It's about what we've collectively decided is acceptable.
+
+And honestly? After seeing how quickly it understood that mountain sweater belonged in a cabin, I'm okay with trading some flexibility for that level of contextual intelligence. Even if I can't get my moose-self portrait.
+
+Article content",,,
+21,11/24/2025,https://www.linkedin.com/pulse/trapped-chat-why-i-rebuilt-my-claude-app-gemini-3-kimberly-bella-w2vnc,Trapped in the Chat: Why I Rebuilt My Claude App in Gemini 3,Tool tested: Gemini 3,"We often talk about ""Vendor Lock-in"" with enterprise software, but I recently discovered a new flavor of it: ""Prompt Lock-in.""
+
+I recently wrote a post about building a ""Juicy Word Finder"" for my second grader using Claude. As I detailed then, the experience was incredible. The concept was simple: she types in a boring word (like ""said""), and the app suggests ""juicier"" modifiers (like ""exclaimed"" or ""whispered"").
+
+Because Claude is ""smart"" and dynamic, the app it built was essentially a window into a supercomputer. It could access a near-infinite vocabulary. If my daughter typed in a complex or obscure word, the AI backend could handle it instantly.
+
+The Problem: The Ferrari in the Garage 
+
+But as I moved from ""building"" to ""sharing,"" I hit a wall. When I asked, ""How do I put this on my website?"" the answer was a list of technical hurdles.
+
+Because the app relied on Claude’s live ""brain"" to function, I couldn't just copy-paste it. To share it with friends or put it on my site, I would have needed to set up a React environment, generate an API key, and pay for usage. I had built a Ferrari, but I couldn't take it out of the garage. It was an amazing tool that was completely stuck inside the chat window.
+
+The Gemini Shift: ""Dumbing It Down"" to Ship It 
+
+I took the exact same concept to Gemini, but with a new constraint. I didn't just ask for the app; I asked for code I could actually deploy to my GoDaddy website.
+
+Gemini took a completely different architectural approach. Instead of building a tool that ""thinks"" every time you click a button, it built a static app. It wrote a self-contained list of words and definitions directly into the JavaScript code.
+
+The Trade-off 
+
+The Gemini version wasn't infinite. In fact, on the first test run, the app didn't even know the word ""fun.""
+
+Me: ""It doesn't know 'fun'.""
+Gemini: ""Updating the internal library now...""
+
+I had to manually ask it to expand the library of words. It was technically ""dumber"" than the Claude version because it wasn't connected to a live AI brain.
+
+The Lesson 
+
+But here is the win: It was portable. Because it didn't need an API key or a backend server, I could copy-paste the code directly onto my site and share it with my family immediately.
+
+There is a massive difference between a Prototype (what I built in Claude) and a Product (what I shipped with Gemini). Sometimes, you have to sacrifice the ""infinite intelligence"" of the model to get something tangible you can actually use.",,,
+22,12/3/2025,https://www.linkedin.com/pulse/when-wine-list-becomes-logic-puzzle-kimberly-bella-bcczc,When a Wine List Becomes a Logic Puzzle,Tool: ChatGPT - Where to Find It: chat.openai.com - Cost: Free tier available; Plus subscription ($20/month) for enhanced features,"Last week I went to a newly opened speakeasy and ordered a glass of white wine. The server who was young, friendly, but clearly new, admitted he hadn’t tasted any of the wines yet and neither had the bartenders, so they couldn’t tell me which ones were dry. I took a gamble on one with ""blanc"" in the name, chose poorly, and spent the evening with a glass of something I strongly disliked.
+
+Tonight, faced with another wine list and determined not to repeat the mistake, I ran a small GenAI experiment: could ChatGPT help me predict which of the white wines would be the driest just from the menu?
+
+I snapped a quick photo of the list and asked. The model broke down each varietal by typical dryness levels, explaining why Sauvignon Blanc and Albariño lean bone-dry, why Vinho Verde is dry but softer, and why Riesling labeled Spätlese is always going to skew sweet. It also flagged that Vouvray can be dry or off-dry (an important nuance I wish last week’s glass had come with).
+
+What I appreciated most wasn’t just the answer but speed, clarity and the reasoning behind it. Instead of guessing, I understood why certain grapes, regions, and styles are predictably dry. The info was structured, had just enough detail for me to grasp quickly and made a solid recommendation. I double-checked with the bartender, who confirmed the guidance, and I ended up with a wine I genuinely liked.
+
+This is the kind of everyday decision where GenAI shines: no drama, no over-engineering, just quick context that upgrades a small but meaningful choice. If last week’s experience was a reminder that “trial and error” can be unnecessarily costly (in both dollars and palate pain), tonight proved that a little well-timed intelligence can make even a simple glass of wine a lot better.","Ever end up with a glass of wine you really don’t like because no one could tell you whether it was dry, off-dry, or something in between?
+
+That happened to me last week at a newly-opened speakeasy. The young server was honest, neither he nor the bartender had tasted all of the wines yet, so I picked one at random and immediately regretted it.
+
+This week I tried something smarter.
+
+I snapped a photo of the wine list and asked ChatGPT which options were the driest. The model broke down each grape and region, explained what typically indicates dryness, and even highlighted nuances like “Vouvray can be dry or off-dry depending on the style.” I verified with the bartender, ordered with confidence, and this time actually liked what I was drinking.
+
+It wasn’t a big decision. But it was a tiny example of how GenAI can quietly improve everyday choices when you use it intentionally, not for shortcuts, but for clarity.
+
+This is the latest story in my Daily(ish) GenAI Experiments series: small tests, real outcomes, and a lot of learning along the way.",,
+23,12/4/2025,https://www.linkedin.com/pulse/quick-take-knowing-risks-matters-reminder-from-ai-safety-bella-npr0e,Quick Take: Knowing the Risks Matters — A Reminder from the AI Safety Index,N/A,"This week, I dug into the latest AI safety pulse check: the Future of Life Institute's ""AI Safety Index: Winter 2025."" It reviews eight leading AI companies across six critical domains, from risk assessment and governance to transparency and long-term ""existential safety.""
+
+What jumped out? None of the evaluated firms scored a clean bill of health. Even the top performers only hit around a C or C+ on the safety scoreboard. Meanwhile, many companies still lack credible plans for how to safely manage (or even control) future ultra-powerful AI systems.
+
+That matters for all of us, even if you're like me and are eager to experiment with new technology and test the limits. Because here's the reality: these tools are not risk-free. The faster AI evolves, the bigger the stakes become.
+
+What This Means For Anyone Using GenAI (Including Me)
+
+No tool is ""innocent"" and even ""free"" has a cost. 
+
+Remember: If it's free, you're the product.
+Even those popular, publicly available models and chatbots we all use? They're built by companies with significant safety gaps.
+
+Understanding risk equals smarter use. Just because AI can help doesn't mean it should always be used blindly. Knowing what can go wrong helps me decide when to lean on AI versus when to rely on human judgment.
+
+Safety isn't automatic. It requires vigilance. As capabilities grow, so do potential harms. We're not guaranteed safety simply because the AI ""works.""
+
+Your use matters. Even small, everyday interactions (deciding on wine, writing a note, planning a trip) sit on a spectrum that leads all the way up to existential questions if we get complacent.
+
+My Lesson: Experiment, But Know What You're Trying and What You're Betting
+
+I started Daily(ish) GenAI Experiments with pure enthusiasm: cool inputs lead to helpful outputs, and I learned something. The FLI Safety Index reminded me that behind every helpful AI prompt, there's a whole infrastructure of trade-offs, unseen development choices, and uncertain long-term risks.
+
+I'm not saying don't experiment. I am saying: let's experiment with awareness. For me, that means keep asking ""why"" and ""what if,"" keep being thoughtful about when I defer to AI, and maybe, every now and then, choose human intuition instead.
+
+Because the value of GenAI doesn't come just from convenience. Its real test is whether it helps us make better choices without losing sight of what's at stake.
+
+Read the full AI Safety Index at https://futureoflife.org/ai-safety-index-winter-2025/?utm_source=chatgpt.com","Every major AI company just got their safety report card. The best grade was a C+. For those of us familiar with the US grading system, that is barely skating by.
+
+I spent this week diving into the FLI's ""AI Safety Index: Winter 2025"" and discovered something that should make us all pause. Eight leading AI companies were evaluated across critical safety domains, and not one scored what you'd call reassuring.
+
+These are the companies behind the tools we use every day. The ones helping us write emails, analyze data, plan presentations. The same ones that still lack credible plans for controlling future ultra-powerful AI systems.
+
+Here's what hit me: I've been running Daily(ish) GenAI Experiments with pure enthusiasm, documenting cool inputs and helpful outputs. But this report reminded me that behind every helpful prompt is an infrastructure of trade-offs and uncertain risks.
+
+I'm not suggesting we stop experimenting. I'm suggesting we experiment with our eyes open.
+
+Because that old internet wisdom applies here too: ""If you're not paying for the product, you are the product."" Except with AI, even when we ARE paying, unless you explicitly opted out, you are likely still the product.
+
+The real question isn't whether to use AI. It's whether we're using it with enough awareness of what's at stake.
+
+My takeaway? Keep experimenting, but also keep asking ""why?"" and ""what if?"" Sometimes the smartest choice might be choosing human intuition instead.
+
+Link to report in comments and Newsletter.",,
+24,12/5/2025,https://www.linkedin.com/pulse/testing-scholarai-when-custom-gpt-actually-works-also-kimberly-bella-wuzzc,Testing ScholarAI: When a Custom GPT Actually Works (But Also Really Wants You to Upgrade),Tool: ChatGPT [Scholar AI GPT] - Where to Find It: chat.openai.com - Cost: Free tier available; Plus subscription ($20/month) for enhanced features,"I tested the ScholarAI custom GPT to see if it lived up to the hype. I wanted to find out what it can really do.
+
+Turns out, quite a bit. Also turns out, it really wants me to visit Jenni.ai.
+
+What I Tested
+
+I started by asking ScholarAI to explain its capabilities, particularly around finding peer-reviewed research. The responses were focused, it stayed in its lane, and acted like an actual research assistant instead of a chatbot pretending to be one.
+
+Then I pushed it further and asked it to find recent papers on consumer data rights in AI models.
+
+It delivered. No made-up citations. No vague summaries dressed up as facts. Just relevant papers with honest framing about what it could and couldn't tell me.
+
+While the conclusions it drew about future pro-consumer policies related to data rights were more optimistic than mine, I was genuinely impressed by the output.
+
+The Upsell Was Everywhere
+
+Throughout this otherwise helpful conversation, ScholarAI kept suggesting I should head over to Jenni.ai to start writing.
+
+Not once. Not twice. Multiple times.
+
+The suggestions were polite, almost apologetic. But they were persistent. Every few exchanges, there'd be another gentle reminder that I could ""take my research to the next level"" on Jenni.ai, a platform that requires you to sign up and pay a subscription fee to actually use.
+
+It wasn't annoying enough to make me quit. But it was noticeable enough to change how the interaction felt.
+
+Why This Actually Matters
+
+Despite the upselling, ScholarAI did what it promised. Unlike general-purpose AI that sometimes wings it when asked about research, this tool:
+
+Understood its specific domain
+Didn't hallucinate sources or draw imaginary conclusions
+Gave me exactly what I asked for
+Maintained clear boundaries about what it could verify
+
+It functioned like a research assistant who actually knows their stuff, but also needs to hit a sales target.
+
+What I'm Realizing About AI Tools
+
+This experiment crystallized something I've been noticing across multiple platforms:
+
+We're not just interacting with AI anymore. We're interacting with AI that has business models.
+
+These tools aren't neutral interfaces, they're distribution channels. Some handle this better than others, but the incentive is always there, humming quietly in the background of otherwise helpful interactions.
+
+The Bottom Line
+
+If you need actual research citations, not ChatGPT's best guess at what a paper might say, ScholarAI works well.
+
+Just expect that while it's helping you find papers on data privacy or climate policy, it'll also be steering you toward Jenni.ai's paid subscription.
+
+For what it was built to do, it delivered. And honestly, that's rare enough that I'll take the sales pitch as part of the package.
+
+Sometimes the best AI tools aren't the flashiest ones. They're the ones that quietly do what they claim, even if they're also quietly trying to convert you into a paying customer somewhere else.",,,
