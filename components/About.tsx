@@ -11,23 +11,22 @@ export default function About() {
           </h2>
         </div>
 
-        <div className="grid md:grid-cols-2 gap-12 items-start">
-          <div className="space-y-6">
+        <div className="flex flex-col md:flex-row gap-8 items-start">
+          <div className="flex-shrink-0">
+            <img
+              src="/images/headshot.jpg"
+              alt="Kimberly Bella"
+              className="w-48 h-48 object-cover rounded-lg"
+            />
+          </div>
+
+          <div className="flex-1 space-y-6">
             <p className="text-lg leading-relaxed">
               My name is Kimberly Bella. I run Daily(ish) GenAI Experiments, where I test AI tools on real tasks and share what actually happens.
             </p>
             <p className="text-lg leading-relaxed">
               I'm genuinely fascinated by how regular people use AI in their daily lives. Not tech workers or startup founders, but parents helping kids with homework, professionals dealing with PDFs, travelers planning trips. My experiments explore everything from practical work tasks to personal projects, documenting both the successes and failures.
             </p>
-          </div>
-
-          <div className="space-y-6">
-            <div className="aspect-square bg-gray-200 rounded-lg overflow-hidden">
-              {/* Add your photo here */}
-              <div className="w-full h-full bg-gray-300 flex items-center justify-center text-gray-500">
-                Your Photo
-              </div>
-            </div>
             <p className="text-lg leading-relaxed">
               My approach is simple: test everything, document honestly, correct mistakes immediately. When something works, I show you how. When it doesn't, I explain why. The goal isn't to promote or dismiss AI, but to help people understand what these tools can actually do.
             </p>
