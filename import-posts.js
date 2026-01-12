@@ -1,51 +1,19 @@
 const fs = require('fs');
 const path = require('path');
+const { parse } = require('csv-parse/sync');
 
 // Read the CSV file
 const csvPath = '/Users/kimberlybella/Downloads/Daily(ish) GenAI Newsletter - Sheet1.csv';
 const csvContent = fs.readFileSync(csvPath, 'utf-8');
 
-// Parse CSV (simple parser for this format)
-const lines = csvContent.split('\n');
-const headers = lines[0].split(',');
+// Parse CSV properly with csv-parse library
+const records = parse(csvContent, {
+  columns: true,
+  skip_empty_lines: true,
+  relax_quotes: true,
+});
 
-// Find column indexes
-const getColumnIndex = (name) => {
-  const index = headers.findIndex(h => h.toLowerCase().includes(name.toLowerCase()));
-  return index >= 0 ? index : null;
-};
-
-const titleIndex = getColumnIndex('title');
-const dateIndex = getColumnIndex('date');
-const toolsIndex = getColumnIndex('tools');
-const newsletterIndex = getColumnIndex('newsletter');
-const headerIndex = getColumnIndex('website header');
-const summaryIndex = getColumnIndex('website summary');
-
-console.log('Column indexes:', { titleIndex, dateIndex, toolsIndex, newsletterIndex, headerIndex, summaryIndex });
-
-// Helper function to parse CSV line (handles quoted fields)
-function parseCSVLine(line) {
-  const result = [];
-  let current = '';
-  let inQuotes = false;
-
-  for (let i = 0; i < line.length; i++) {
-    const char = line[i];
-
-    if (char === '"') {
-      inQuotes = !inQuotes;
-    } else if (char === ',' && !inQuotes) {
-      result.push(current);
-      current = '';
-    } else {
-      current += char;
-    }
-  }
-  result.push(current);
-
-  return result;
-}
+console.log(`Found ${records.length} records to process`);
 
 // Helper to create slug from title
 function createSlug(title) {
@@ -69,23 +37,18 @@ function formatDate(dateStr) {
   return dateStr;
 }
 
-// Process each row (skip header)
+// Process each row
 let postsCreated = 0;
-for (let i = 1; i < lines.length; i++) {
-  if (!lines[i].trim()) continue;
 
-  const fields = parseCSVLine(lines[i]);
-
-  if (fields.length < 6) continue; // Skip incomplete rows
-
-  const title = fields[titleIndex]?.trim();
-  const date = fields[dateIndex]?.trim();
-  const tools = fields[toolsIndex]?.trim();
-  const newsletter = fields[newsletterIndex]?.trim();
-  const websiteHeader = fields[headerIndex]?.trim();
-  const websiteSummary = fields[summaryIndex]?.trim();
-
+for (const row of records) {
+  const title = row['Title']?.trim();
   if (!title) continue;
+
+  const date = row['Date Published']?.trim();
+  const tools = row['Tools Tested']?.trim();
+  const newsletter = row['Newsletter']?.trim();
+  const websiteHeader = row['Website Header']?.trim();
+  const websiteSummary = row['Website Summary']?.trim();
 
   const slug = createSlug(title);
   const formattedDate = formatDate(date);

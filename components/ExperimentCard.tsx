@@ -6,7 +6,9 @@ interface ExperimentCardProps {
 }
 
 export default function ExperimentCard({ post }: ExperimentCardProps) {
-  const formattedDate = new Date(post.date).toLocaleDateString("en-US", {
+  // Add 'T00:00:00' to ensure proper parsing
+  const dateString = post.date.includes('T') ? post.date : `${post.date}T00:00:00`;
+  const formattedDate = new Date(dateString).toLocaleDateString("en-US", {
     year: "numeric",
     month: "short",
     day: "numeric",
