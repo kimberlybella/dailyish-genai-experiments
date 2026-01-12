@@ -59,11 +59,11 @@ export default async function ExperimentPost({
           </header>
 
           {post.image && (
-            <div className="aspect-video bg-gray-200 rounded-lg overflow-hidden mb-12">
+            <div className="max-w-2xl mx-auto mb-12">
               <img
                 src={post.image}
                 alt={post.title}
-                className="w-full h-full object-cover"
+                className="w-full h-auto rounded-lg"
               />
             </div>
           )}
