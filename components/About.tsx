@@ -14,9 +14,9 @@ export default function About() {
         <div className="flex flex-col md:flex-row gap-8 items-start">
           <div className="flex-shrink-0">
             <img
-              src="/images/Headshot.jpg"
+              src="/images/Headshot.png"
               alt="Kimberly Bella"
-              className="w-48 h-48 object-cover rounded-lg"
+              className="w-64 h-auto rounded-lg"
             />
           </div>
 
