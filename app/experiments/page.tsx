@@ -29,8 +29,13 @@ export default function ExperimentsPage({
             href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7382070120430346241"
             target="_blank"
             rel="noopener noreferrer"
-            className="inline-flex flex-col justify-center items-center px-7 py-2 text-center text-white w-52 h-8 rounded-2xl bg-[#0A66C2] hover:bg-[#004182] transition-colors no-underline"
-            style={{ fontFamily: '"SF Pro Text", Helvetica, sans-serif' }}
+            className="inline-flex justify-center items-center text-center text-white rounded-full bg-[#0A66C2] hover:bg-[#004182] transition-colors no-underline"
+            style={{
+              fontFamily: '"SF Pro Text", Helvetica, sans-serif',
+              padding: '7px',
+              width: '200px',
+              height: '32px'
+            }}
           >
             Subscribe on LinkedIn
           </a>
