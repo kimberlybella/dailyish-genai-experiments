@@ -22,9 +22,18 @@ export default function ExperimentsPage({
           <h1 className="text-5xl md:text-6xl font-serif font-bold mb-8">
             Experiments
           </h1>
-          <p className="text-xl text-light/80 max-w-3xl">
+          <p className="text-xl text-light/80 max-w-3xl mb-8">
             Real-world AI tool testing with honest documentation of what works, what doesn't, and what you need to know.
           </p>
+          <a
+            href="https://www.linkedin.com/build-relation/newsletter-follow?entityUrn=7382070120430346241"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex flex-col justify-center items-center px-7 py-2 text-center text-white w-52 h-8 rounded-2xl bg-[#0A66C2] hover:bg-[#004182] transition-colors no-underline"
+            style={{ fontFamily: '"SF Pro Text", Helvetica, sans-serif' }}
+          >
+            Subscribe on LinkedIn
+          </a>
         </div>
       </section>
 
