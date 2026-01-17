@@ -22,7 +22,7 @@ export default function About() {
 
           <div className="flex-1 space-y-6">
             <p className="text-lg leading-relaxed">
-              My name is Kimberly Bella. I run Daily(ish) GenAI Experiments, where I test AI tools on real tasks and share what actually happens.
+              My name is <a href="https://www.linkedin.com/in/kimberlybella/" target="_blank" rel="noopener noreferrer" className="underline hover:text-dark/70 transition-colors">Kimberly Bella</a>. I run Daily(ish) GenAI Experiments, where I test AI tools on real tasks and share what actually happens.
             </p>
             <p className="text-lg leading-relaxed">
               I'm genuinely fascinated by how regular people use AI in their daily lives. Not tech workers or startup founders, but parents helping kids with homework, professionals dealing with PDFs, travelers planning trips. My experiments explore everything from practical work tasks to personal projects, documenting both the successes and failures.
