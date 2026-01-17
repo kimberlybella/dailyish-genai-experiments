@@ -15,7 +15,7 @@ export default function Categories() {
     <section className="py-24 px-6 bg-light text-dark">
       <div className="max-w-7xl mx-auto">
         <div className="flex items-center gap-4 mb-12">
-          <img src="/images/logo.png" alt="" className="w-12 h-12" />
+          <img src="/images/logo-blk.png" alt="" className="w-12 h-auto" />
           <h2 className="text-3xl md:text-4xl font-serif font-semibold">
             Experiment Categories
           </h2>

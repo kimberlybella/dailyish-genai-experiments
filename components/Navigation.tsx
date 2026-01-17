@@ -6,7 +6,7 @@ export default function Navigation() {
       <div className="max-w-7xl mx-auto px-6 py-4">
         <div className="flex items-center justify-between">
           <Link href="/" className="flex items-center gap-3 text-xl font-serif font-semibold hover:opacity-80 transition-opacity">
-            <img src="/images/logo2.png" alt="Daily(ish) GenAI Experiments" className="w-10 h-10" />
+            <img src="/images/logo2.png" alt="Daily(ish) GenAI Experiments" className="w-10 h-auto" />
             <span>Daily(ish) GenAI Experiments</span>
           </Link>
           <div className="flex gap-8 items-center">
