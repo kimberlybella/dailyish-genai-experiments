@@ -3,7 +3,7 @@ title: "When AI Becomes Your Holiday Shopping Assistant: Claude Voice Mode Editi
 date: "2025-11-20"
 category: "Tool Comparison"
 excerpt: "Yesterday's experiment started during my drive to daycare pickup and ended with an actual shopping plan I might follow. If you've ever stared at a gift list for 8 family members and felt your soul lea..."
-image: "/images/posts/when-ai-becomes-your-holiday-shopping-assistant-claude-voice-mode-edition.jpg"
+image: "/images/posts/when-ai-becomes-your-holiday-shopping-assistant-claude-voice-mode-edition.png"
 tags: ["Claude"]
 ---
 

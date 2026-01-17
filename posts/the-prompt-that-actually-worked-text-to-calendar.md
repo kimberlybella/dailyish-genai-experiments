@@ -3,7 +3,7 @@ title: "The Prompt That Actually Worked: Text to Calendar"
 date: "2025-10-14"
 category: "Tool Comparison"
 excerpt: "Yesterday I shared how I turned the park district's basketball schedule into a clean calendar file. Today I'm sharing the exact prompt template I used, because the magic wasn't in the AI, it was in be..."
-image: "/images/posts/the-prompt-that-actually-worked-text-to-calendar.jpg"
+image: "/images/posts/the-prompt-that-actually-worked-text-to-calendar.png"
 tags: ["ChatGPT"]
 ---
 

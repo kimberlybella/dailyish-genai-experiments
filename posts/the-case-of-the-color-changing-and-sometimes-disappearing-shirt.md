@@ -3,7 +3,7 @@ title: "The Case of the Color-Changing (and Sometimes Disappearing) Shirt"
 date: "2025-10-24"
 category: "Tool Comparison"
 excerpt: "The Challenge: A friend needed her headshot edited to match her brand colors - specifically, changing her blue dress to purple. Simple enough, right? Well, as with most things in AI, the journey was m..."
-image: "/images/posts/the-case-of-the-color-changing-and-sometimes-disappearing-shirt.jpg"
+image: "/images/posts/the-case-of-the-color-changing-and-sometimes-disappearing-shirt.png"
 tags: ["ChatGPT"]
 ---
 

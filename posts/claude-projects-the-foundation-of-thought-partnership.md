@@ -3,7 +3,7 @@ title: "Claude Projects - The Foundation of Thought Partnership"
 date: "2025-10-09"
 category: "Tool Comparison"
 excerpt: "What happens when you stop treating AI as a content generator and start using it as a genuine thinking partner? In this experiment, I explored Claude's Projects feature to develop and refine a presentation through multiple iterative sessions. The key discovery: Claude Projects creates a persistent workspace where context carries across conversations. No more re-explaining your project every time. Instead, each session builds on the last - from initial brain dump to structure creation, through voice conversations about creative decisions, all the way to final refinements based on practice session feedback. I found the most value not in having Claude write my presentation, but in using it to think through structural choices, narrative flow, and transitions. Voice conversations proved especially powerful for working through subjective creative decisions in real-time. This experiment demonstrates how AI tools excel when used for sustained creative partnership rather than one-off tasks. Whether using Claude Pro's Projects feature or bookmarking conversations in the free tier, the ability to maintain context transforms AI from a tool into a collaborator. [Read the full experiment on LinkedIn →]"
-image: "/images/posts/claude-projects-the-foundation-of-thought-partnership.jpg"
+image: "/images/posts/claude-projects-the-foundation-of-thought-partnership.png"
 tags: ["Claude"]
 ---
 

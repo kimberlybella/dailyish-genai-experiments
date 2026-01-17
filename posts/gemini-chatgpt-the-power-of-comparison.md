@@ -3,7 +3,7 @@ title: "Gemini & ChatGPT - The Power of Comparison"
 date: "2025-10-10"
 category: "Tool Comparison"
 excerpt: "How I Used Them"
-image: "/images/posts/gemini-chatgpt-the-power-of-comparison.jpg"
+image: "/images/posts/gemini-chatgpt-the-power-of-comparison.png"
 tags: ["ChatGPT","Gemini"]
 ---
 

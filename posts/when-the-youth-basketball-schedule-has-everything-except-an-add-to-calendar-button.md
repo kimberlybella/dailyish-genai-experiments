@@ -3,7 +3,7 @@ title: "When the Youth Basketball Schedule Has Everything Except an \"Add to Cal
 date: "2025-10-13"
 category: "Tool Comparison"
 excerpt: "I had a problem. Actually, I had a perfectly functional schedule. The park district's website listed seven weeks of youth basketball games with all the information I needed: dates, times, locations, m..."
-image: "/images/posts/when-the-youth-basketball-schedule-has-everything-except-an-add-to-calendar-button.jpg"
+image: "/images/posts/when-the-youth-basketball-schedule-has-everything-except-an-add-to-calendar-button.png"
 tags: ["ChatGPT"]
 ---
 

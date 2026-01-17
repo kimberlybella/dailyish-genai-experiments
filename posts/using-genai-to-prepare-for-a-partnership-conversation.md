@@ -3,7 +3,7 @@ title: "Using GenAI to Prepare for a Partnership Conversation"
 date: "2025-11-03"
 category: "Tool Comparison"
 excerpt: "This week’s experiment explored how GenAI can speed up and elevate partnership preparation, not just by summarizing a company’s data, but by helping you think like their business."
-image: "/images/posts/using-genai-to-prepare-for-a-partnership-conversation.jpg"
+image: "/images/posts/using-genai-to-prepare-for-a-partnership-conversation.png"
 tags: ["ChatGPT","Perplexity"]
 ---
 
