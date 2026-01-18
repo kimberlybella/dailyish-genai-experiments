@@ -75,14 +75,16 @@ export default async function ExperimentPost({
 
           {post.tags && post.tags.length > 0 && (
             <div className="mt-12 pt-8 border-t border-dark/10">
+              <h3 className="text-lg font-semibold mb-4">Tags:</h3>
               <div className="flex flex-wrap gap-2">
                 {post.tags.map((tag) => (
-                  <span
+                  <Link
                     key={tag}
-                    className="px-4 py-2 bg-dark/5 rounded-full text-sm"
+                    href={`/experiments/tag/${encodeURIComponent(tag)}`}
+                    className="px-4 py-2 bg-dark/5 hover:bg-dark/10 rounded-full text-sm font-semibold transition-colors"
                   >
                     {tag}
-                  </span>
+                  </Link>
                 ))}
               </div>
             </div>
