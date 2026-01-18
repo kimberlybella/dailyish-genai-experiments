@@ -3,7 +3,7 @@ title: "Rapid Protoyping with Real Limitations"
 date: "2025-10-17"
 category: "Tool Comparison"
 excerpt: "How I Used It Once I had my structure finalized, I used Gamma for initial deck generation. I explained my audience and goals, chose a general theme, and Gamma created a complete first draft in seconds..."
-image: "/images/posts/rapid-protoyping-with-real-limitations.jpg"
+image: "/images/posts/rapid-protoyping-with-real-limitations.png"
 tags: []
 ---
 
