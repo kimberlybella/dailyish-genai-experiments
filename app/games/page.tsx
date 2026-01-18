@@ -3,10 +3,10 @@ import Link from "next/link";
 // Add your games here
 const games = [
   {
-    title: "Game 1",
-    description: "Description of your first game",
-    slug: "game-1",
-    image: "/images/games/game-1.png", // Optional: add a screenshot
+    title: "Juicy Word Finder",
+    description: "Help second graders find more exciting words for their stories! Type a simple word and discover juicier alternatives with kid-friendly definitions.",
+    slug: "juicy-word-finder",
+    image: "/images/games/juicy-word-finder.png", // Optional: add a screenshot
   },
   {
     title: "Game 2",
