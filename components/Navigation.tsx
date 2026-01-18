@@ -13,6 +13,9 @@ export default function Navigation() {
             <Link href="/experiments" className="hover:text-light/70 transition-colors">
               Experiments
             </Link>
+            <Link href="/games" className="hover:text-light/70 transition-colors">
+              Games
+            </Link>
             <Link href="/about" className="hover:text-light/70 transition-colors">
               About
             </Link>

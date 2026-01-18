@@ -11,16 +11,8 @@ export default function About() {
           </h2>
         </div>
 
-        <div className="flex flex-col md:flex-row gap-8 items-start">
-          <div className="flex-shrink-0">
-            <img
-              src="/images/Headshot.png"
-              alt="Kimberly Bella"
-              className="w-64 h-auto rounded-lg"
-            />
-          </div>
-
-          <div className="flex-1 space-y-6">
+        <div className="flex flex-col md:flex-row gap-12 items-start">
+          <div className="flex-1 space-y-6 order-2 md:order-1">
             <p className="text-lg leading-relaxed">
               My name is <a href="https://www.linkedin.com/in/kimberlybella/" target="_blank" rel="noopener noreferrer" className="underline hover:text-dark/70 transition-colors">Kimberly Bella</a>. I run Daily(ish) GenAI Experiments, where I test AI tools on real tasks and share what actually happens.
             </p>
@@ -33,6 +25,14 @@ export default function About() {
             <p className="text-lg leading-relaxed">
               Through Daily(ish) GenAI Experiments, I'm building a resource for anyone who wants to understand AI's real capabilities and limitations through hands-on testing and authentic documentation.
             </p>
+          </div>
+
+          <div className="flex-shrink-0 order-1 md:order-2 w-full md:w-auto">
+            <img
+              src="/images/Headshot.png"
+              alt="Kimberly Bella"
+              className="w-64 h-auto rounded-lg mx-auto md:mx-0"
+            />
           </div>
         </div>
 
