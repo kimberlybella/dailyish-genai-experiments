@@ -1,5 +1,6 @@
 import Link from "next/link";
 
+// Navigation component - Games link removed
 export default function Navigation() {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50 bg-dark/95 backdrop-blur-sm border-b border-light/10">
