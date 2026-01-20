@@ -4,7 +4,7 @@ date: "2025-12-22"
 category: "Tool Comparison"
 excerpt: "I had a trailing vine plant sitting on top of a cabinet in my house and wanted to know if I should do anything with it. Simple question. But I also had an ulterior motive: I wanted to see if ChatGPT could match a specialized plant identification app."
 image: "/images/posts/gpt-5-2-nailed-my-plant-care-question-then-got-fooled-by-a-moose.png"
-tags: ["ChatGPT"]
+tags: ["ChatGPT", "Houseplants", "Images"]
 ---
 
 **Tool:** ChatGPT (GPT 5.2)

@@ -4,7 +4,7 @@ date: "2025-10-11"
 category: "Tool Comparison"
 excerpt: "The Experiment Can AI help plan a party based on specific media? I tested this by planning my child's birthday party themed around the Netflix movie K-Pop Demon Hunters."
 image: "/images/posts/planning-a-k-pop-demon-hunter-iykyk-birthday-party-with-claude.png"
-tags: ["Claude"]
+tags: ["Claude", "Parties"]
 ---
 
 

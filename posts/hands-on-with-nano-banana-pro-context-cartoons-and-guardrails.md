@@ -4,7 +4,7 @@ date: "2025-11-23"
 category: "Tool Comparison"
 excerpt: "Yesterday's experiment started with a simple goal: test whether Google's latest image model understands context or just follows instructions. The results revealed both a massive leap forward in AI's a..."
 image: "/images/posts/hands-on-with-nano-banana-pro-context-cartoons-and-guardrails.jpg"
-tags: ["Gemini"]
+tags: ["Gemini", "Images"]
 ---
 
 

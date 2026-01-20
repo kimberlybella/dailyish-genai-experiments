@@ -4,7 +4,7 @@ date: "2025-10-29"
 category: "Tool Comparison"
 excerpt: "Armed with ChatGPT Atlas, I set out on what should have been a simple task: book restaurant reservations for a weekend trip. What followed was a masterclass in AI inefficiency."
 image: "/images/posts/atlas-edition-part-2-watching-paint-dry-ai-edition-the-restaurant-reservation-saga.png"
-tags: ["ChatGPT"]
+tags: ["ChatGPT", "Travel"]
 ---
 
 ## What happened

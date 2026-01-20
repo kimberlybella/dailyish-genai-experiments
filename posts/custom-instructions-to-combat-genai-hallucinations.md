@@ -4,7 +4,7 @@ date: "2025-11-07"
 category: "Tool Comparison"
 excerpt: "On Wednesday I shared an example of a wild hallucination that resulted from the Gamma implementation of GPT5. Today, I'd like to share some tips on how to use custom instructions in the models you use..."
 image: "/images/posts/custom-instructions-to-combat-genai-hallucinations.png"
-tags: ["Claude","ChatGPT","Gemini","Perplexity"]
+tags: ["Claude", "ChatGPT", "Gemini", "Perplexity"]
 ---
 
 

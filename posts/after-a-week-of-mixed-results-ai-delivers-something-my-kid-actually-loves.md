@@ -4,7 +4,7 @@ date: "2025-11-17"
 category: "Tool Comparison"
 excerpt: "Last night's experiment started with homework frustration and ended with genuine delight, the kind where my seven-year-old actually asked to do more word practice. If you're a parent who's witnessed t..."
 image: "/images/posts/after-a-week-of-mixed-results-ai-delivers-something-my-kid-actually-loves.jpg"
-tags: ["Claude"]
+tags: ["Claude", "Education"]
 ---
 
 

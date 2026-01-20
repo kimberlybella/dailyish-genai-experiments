@@ -4,7 +4,7 @@ date: "2025-11-11"
 category: "Tool Comparison"
 excerpt: "Last night's experiment started with a simple idea: could a large language model make something useful out of the chaos in my fridge after a busy weekend?"
 image: "/images/posts/when-ai-looks-in-your-fridge.png"
-tags: ["ChatGPT"]
+tags: ["ChatGPT", "Food tags: ["ChatGPT"] Wine", "Images"]
 ---
 
 

@@ -4,7 +4,7 @@ date: "2025-11-14"
 category: "Tool Comparison"
 excerpt: "The promise: AI will automate tedious tasks like extracting data from PDFs into spreadsheets."
 image: "/images/posts/when-ai-data-extraction-becomes-more-work-than-doing-it-manually.png"
-tags: ["AI Tools", "ChatGPT"]
+tags: ["ChatGPT", "Data Analysis"]
 ---
 
 

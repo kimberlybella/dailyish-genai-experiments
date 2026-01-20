@@ -2,13 +2,23 @@ import Link from "next/link";
 import RobotLogo from "./RobotLogo";
 
 const tags = [
-  "AI Tools",
   "ChatGPT",
   "Claude",
   "Claude Code",
+  "Data Analysis",
+  "Education",
+  "Food & Wine",
   "Gemini",
+  "Houseplants",
+  "Images",
+  "Music",
+  "Parties",
   "Perplexity",
   "Poe.com",
+  "Privacy",
+  "Shopping",
+  "Sports",
+  "Travel",
   "Web Development",
 ];
 

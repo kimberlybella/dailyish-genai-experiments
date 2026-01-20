@@ -4,7 +4,7 @@ date: "2025-12-30"
 category: "Tool Comparison"
 excerpt: "My second grader came home with a logic puzzle worksheet. After some frustration at the kitchen table, I realized there wasn't enough information to solve it. I decided to test whether AI could confirm my suspicion."
 image: "/images/posts/three-ai-models-walk-into-an-unsolvable-puzzle.png"
-tags: ["Claude", "Gemini", "ChatGPT"]
+tags: ["Claude", "Gemini", "ChatGPT", "Education"]
 ---
 
 **Get curious. Stay grounded. Keep testing.**

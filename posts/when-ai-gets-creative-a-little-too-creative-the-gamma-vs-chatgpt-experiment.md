@@ -4,7 +4,7 @@ date: "2025-11-05"
 category: "Tool Comparison"
 excerpt: "I just had one of those \"this is why we can't have nice things\" moments with AI."
 image: "/images/posts/when-ai-gets-creative-a-little-too-creative-the-gamma-vs-chatgpt-experiment.png"
-tags: ["ChatGPT", "AI Tools"]
+tags: ["ChatGPT", "Images"]
 ---
 
 

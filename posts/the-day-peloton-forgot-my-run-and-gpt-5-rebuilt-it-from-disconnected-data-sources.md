@@ -4,7 +4,7 @@ date: "2025-10-16"
 category: "Tool Comparison"
 excerpt: "When your fitness app fails, AI can still finish the story."
 image: "/images/posts/the-day-peloton-forgot-my-run-and-gpt-5-rebuilt-it-from-disconnected-data-sources.png"
-tags: ["ChatGPT"]
+tags: ["ChatGPT", "Sports", "Data Analysis"]
 ---
 
 

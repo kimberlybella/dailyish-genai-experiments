@@ -4,7 +4,7 @@ date: "2026-01-08"
 category: "Tool Comparison"
 excerpt: "Every morning, I need to fill out a slip telling my kindergartener's school what they'll eat for lunch. I thought: this is exactly the kind of thing an AI agent should handle. Spoiler: the agent got almost everything right, but 'almost' doesn't fill out lunch slips."
 image: "/images/posts/the-agent-got-99-percent-right-the-last-mile-ate-my-ai-credits.png"
-tags: ["Poe.com", "ChatGPT"]
+tags: ["Poe.com", "ChatGPT", "Education"]
 ---
 
 **Tools:** Poe.com (Script-Bot-Creator), ChatGPT (GPT-5)

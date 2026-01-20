@@ -4,7 +4,7 @@ date: "2025-10-21"
 category: "Tool Comparison"
 excerpt: ""
 image: "/images/posts/data-science-deep-dive-analyzing-3-years-of-peloton-data-with-gemini-2-5-flash.png"
-tags: ["Gemini"]
+tags: ["Gemini", "Data Analysis", "Sports"]
 ---
 
 

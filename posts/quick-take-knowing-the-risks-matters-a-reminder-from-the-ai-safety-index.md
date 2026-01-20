@@ -4,7 +4,7 @@ date: "2025-12-04"
 category: "Tool Comparison"
 excerpt: "This week, I dug into the latest AI safety pulse check: the Future of Life Institute's \"AI Safety Index: Winter 2025.\" It reviews eight leading AI companies across six critical domains, from risk asse..."
 image: "/images/posts/quick-take-knowing-the-risks-matters-a-reminder-from-the-ai-safety-index.jpg"
-tags: ["AI Tools"]
+tags: ["Privacy"]
 ---
 
 
