@@ -22,9 +22,7 @@ export default function ContactPage() {
                 </p>
                 <p>
                   <strong className="text-light">Follow:</strong><br />
-                  <a href="#" className="underline hover:text-light transition-colors">Instagram</a> •{" "}
-                  <a href="#" className="underline hover:text-light transition-colors">LinkedIn</a> •{" "}
-                  <a href="#" className="underline hover:text-light transition-colors">Twitter</a>
+                  <a href="https://www.linkedin.com/in/kimberlybella/" target="_blank" rel="noopener noreferrer" className="underline hover:text-light transition-colors">LinkedIn</a>
                 </p>
               </div>
             </div>
