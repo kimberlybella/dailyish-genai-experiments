@@ -4,7 +4,7 @@ date: "2025-10-29"
 category: "Tool Comparison"
 excerpt: "What happened"
 image: "/images/posts/chatgpt-atlas-edition-part-1-the-privacy-paradox-chatgpt-wants-your-browser-history.png"
-tags: []
+tags: ["ChatGPT", "AI Tools"]
 ---
 
 
