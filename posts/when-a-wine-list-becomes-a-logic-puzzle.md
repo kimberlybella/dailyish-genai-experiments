@@ -4,7 +4,7 @@ date: "2025-12-03"
 category: "Tool Comparison"
 excerpt: "Last week I went to a newly opened speakeasy and ordered a glass of white wine. The server who was young, friendly, but clearly new, admitted he hadn’t tasted any of the wines yet and neither had the ..."
 image: "/images/posts/when-a-wine-list-becomes-a-logic-puzzle.jpg"
-tags: ["ChatGPT", "Food tags: ["ChatGPT"] Wine"]
+tags: ["ChatGPT", "Food & Wine"]
 ---
 
 
