@@ -3,7 +3,7 @@ title: "Claude Code, Part 1: How a Non-Coder Built a Custom Website"
 date: "2026-01-20"
 category: "AI Tools"
 excerpt: "I had a GoDaddy site with decent blog features and a Canva design I loved. But I couldn't combine them. So I asked Claude Code to build a custom website—and it actually worked."
-image: "/images/experiments/claude-code-part-1.png"
+image: "/images/posts/claude-code-part-1.png"
 tags: ["Claude Code", "Web Development", "AI Tools"]
 ---
 
