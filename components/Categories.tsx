@@ -1,13 +1,14 @@
 import Link from "next/link";
 
-const categories = [
-  { name: "Document & Data Processing", slug: "document-data-processing" },
-  { name: "Creative & Visual Tools", slug: "creative-visual" },
-  { name: "Research & Information Gathering", slug: "research-information" },
-  { name: "Education & Learning", slug: "education-learning" },
-  { name: "Personal & Family Tasks", slug: "personal-family" },
-  { name: "Tool Comparison", slug: "tool-comparison" },
-  { name: "Safety & Limitations", slug: "safety-limitations" },
+const tags = [
+  "AI Tools",
+  "ChatGPT",
+  "Claude",
+  "Claude Code",
+  "Gemini",
+  "Perplexity",
+  "Poe.com",
+  "Web Development",
 ];
 
 export default function Categories() {
@@ -17,18 +18,18 @@ export default function Categories() {
         <div className="flex items-center gap-4 mb-12">
           <img src="/images/Robot-Logo-BLK.png" alt="" className="w-12 h-auto" />
           <h2 className="text-3xl md:text-4xl font-serif font-semibold">
-            Experiment Categories
+            Browse by Tag
           </h2>
         </div>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-          {categories.map((category) => (
+        <div className="flex flex-wrap gap-3">
+          {tags.map((tag) => (
             <Link
-              key={category.slug}
-              href={`/experiments?category=${category.slug}`}
-              className="border-2 border-dark rounded-full px-6 py-4 text-center hover:bg-dark hover:text-light transition-all duration-300"
+              key={tag}
+              href={`/experiments/tag/${encodeURIComponent(tag)}`}
+              className="inline-block px-6 py-3 bg-dark/5 hover:bg-dark hover:text-light rounded-full text-sm font-semibold transition-all duration-300 border-2 border-dark"
             >
-              {category.name} →
+              {tag}
             </Link>
           ))}
         </div>
