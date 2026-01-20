@@ -1,19 +1,10 @@
-import { getAllPosts, getAllCategories } from "@/lib/posts";
+import { getAllPosts, getAllTags } from "@/lib/posts";
 import ExperimentCard from "@/components/ExperimentCard";
-import CategoryFilter from "@/components/CategoryFilter";
+import TagFilter from "@/components/TagFilter";
 
-export default function ExperimentsPage({
-  searchParams,
-}: {
-  searchParams: { category?: string };
-}) {
+export default function ExperimentsPage() {
   const allPosts = getAllPosts();
-  const categories = getAllCategories();
-  const selectedCategory = searchParams.category;
-
-  const filteredPosts = selectedCategory
-    ? allPosts.filter((post) => post.category === selectedCategory)
-    : allPosts;
+  const tags = getAllTags();
 
   return (
     <div className="min-h-screen pt-20">
@@ -44,19 +35,20 @@ export default function ExperimentsPage({
 
       <section className="py-12 px-6 bg-light text-dark border-b border-dark/10">
         <div className="max-w-7xl mx-auto">
-          <CategoryFilter categories={categories} selectedCategory={selectedCategory} />
+          <h2 className="text-2xl font-serif font-semibold mb-6">Browse by Tag</h2>
+          <TagFilter tags={tags} />
         </div>
       </section>
 
       <section className="py-16 px-6 bg-light text-dark">
         <div className="max-w-7xl mx-auto">
-          {filteredPosts.length === 0 ? (
+          {allPosts.length === 0 ? (
             <div className="text-center py-16">
               <p className="text-2xl text-dark/60">No experiments yet. Check back soon!</p>
             </div>
           ) : (
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-              {filteredPosts.map((post) => (
+              {allPosts.map((post) => (
                 <ExperimentCard key={post.slug} post={post} />
               ))}
             </div>

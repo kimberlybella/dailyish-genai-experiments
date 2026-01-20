@@ -76,3 +76,14 @@ export function getAllCategories(): string[] {
   const categories = new Set(allPosts.map((post) => post.category));
   return Array.from(categories);
 }
+
+export function getAllTags(): string[] {
+  const allPosts = getAllPosts();
+  const tags = new Set<string>();
+  allPosts.forEach(post => {
+    if (post.tags && Array.isArray(post.tags)) {
+      post.tags.forEach(tag => tags.add(tag));
+    }
+  });
+  return Array.from(tags).sort();
+}
