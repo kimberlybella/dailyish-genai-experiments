@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Navigation from "@/components/Navigation";
 import Footer from "@/components/Footer";
+import { Analytics } from "@vercel/analytics/next";
 
 export const metadata: Metadata = {
   title: "Daily(ish) GenAI Experiments",
@@ -22,6 +23,7 @@ export default function RootLayout({
         <Navigation />
         <main>{children}</main>
         <Footer />
+        <Analytics />
       </body>
     </html>
   );
