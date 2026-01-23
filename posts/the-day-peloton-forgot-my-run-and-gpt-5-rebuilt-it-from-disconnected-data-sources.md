@@ -19,7 +19,8 @@ What followed was more illuminating. GPT 5 explained why Peloton doesn't allow m
 
 Generative AI isn't just for writing or coding anymore. It functions as a thinking partner that can rebuild missing data, explain the logic behind system limitations, and translate raw numbers into actionable meaning. What started as a frustrating tech glitch turned into a small reminder that AI's usefulness often appears in the everyday gaps between our tools, filling in spaces we didn't even know needed filling.
 
-What I Learned
+## What I Learned
+
 Before calculating my specific workout, GPT 5 walked me through different methods for estimating calorie burn:
 
 Basic method: Body weight and distance only (roughly 0.63 calories per pound per mile). Fast but least accurate since it ignores pace, terrain, and fitness level.

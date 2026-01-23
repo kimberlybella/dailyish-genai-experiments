@@ -13,7 +13,7 @@ The promise: AI will automate tedious tasks like extracting data from PDFs into 
 
 The reality: I spent hours trying to get Microsoft Copilot to extract data from a 60-page PDF document, only to have it tell me to wait for excel files that never came and then crash on page six.
 
-The Experiment
+## The Experiment
 
 I had what seemed like a straightforward task: extract names and other details from a 60-page PDF document into an Excel table.
 
@@ -33,7 +33,7 @@ Pages 2, 3, 4, and 5 worked when handled one at a time. Progress was painfully s
 
 I then tried the same task in Gemini 2.5 Pro which told me the PDF was too complex to process into an excel file, still not what I needed, but at least it was honest.
 
-What This Experiment Reveals
+## What This Experiment Reveals
 
 The task difficulty matters, but so does the tool's ability to communicate limitations. Yes, extracting data from inconsistent PDFs is genuinely difficult. But Copilot never indicated what it could or couldn't handle. It simply failed silently, leaving me to guess at solutions through trial and error.
 
@@ -43,7 +43,7 @@ AI "automation" required constant supervision. Instead of setting Copilot loose 
 
 Complex real-world scenarios expose AI limitations. The messy formatting in this PDF represents typical business documents. If AI tools can only handle pristine data, their practical value for everyday tasks is questionable.
 
-Key Takeaways
+## Key Takeaways
 
 Extracting data from inconsistent PDFs is legitimately difficult, but AI tools should communicate their limitations rather than failing silently
 "AI-powered" features often require significantly more human intervention than marketing suggests
@@ -51,7 +51,7 @@ Unpredictable performance makes it impossible to estimate time or plan workflows
 For messy, critical work, traditional methods or specialized extraction tools may still be more reliable
 The gap between AI capability and AI usability remains significant for common business tasks
 
-The Bottom Line:
+## The Bottom Line:
 
 Microsoft Copilot turned a difficult but potentially automatable task into an hours-long troubleshooting session that ended in a crash. While the complexity of the source document was real, the tool's inability to handle it consistently, or even explain its limitations, made the experience more frustrating than just doing the work manually.
 

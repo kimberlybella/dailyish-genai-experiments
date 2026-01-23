@@ -23,20 +23,26 @@ Instead of "plummeted: to fall perpendicularly or abruptly," we got "plummeted: 
 
 That is intelligent context awareness. Not the kind vendors talk about in their demos, but the kind that actually matters in real-world use.
 
-What worked:
+## What worked:
 
 The tool was genuinely interactive: my daughter controlled it herself, typing in words and seeing instant results
 Definitions were automatically calibrated to a seven-year-old's comprehension level
 The visual feedback (colorful interface, immediate responses) kept her engaged
 She felt ownership over the process since she was "driving" the tool
 
-What this reveals: This experiment highlighted something I've been noticing across multiple tests: AI tools excel when they can leverage context naturally rather than through explicit instructions. I never told Claude to "write definitions for a second grader." It inferred this from our conversation flow and adjusted accordingly.
+## What this reveals:
+
+This experiment highlighted something I've been noticing across multiple tests: AI tools excel when they can leverage context naturally rather than through explicit instructions. I never told Claude to "write definitions for a second grader." It inferred this from our conversation flow and adjusted accordingly.
 
 Compare this to my recent Microsoft Copilot PDF experiment, where explicit instructions to extract specific data failed spectacularly. The difference? Claude was working within its strength zone (understanding conversational context and generating appropriate responses) while Copilot was trying to perform precise data extraction, a task that exposed its limitations.
 
-The bigger picture: Too often, we try to force AI tools to replace existing workflows entirely. Last night's success came from using AI as a creative supplement to homework time, not a replacement for learning. My daughter still had to think about which words needed jazzing up. She still had to choose which alternatives fit her sentences. The tool just made the discovery process more engaging and accessible.
+## The bigger picture:
 
-Today's question: Could this same approach work for other homework challenges? Math word problems translated into kid-speak? Science concepts explained through their favorite characters? The potential is intriguing, but as always, the real test will be in the implementation.
+Too often, we try to force AI tools to replace existing workflows entirely. Last night's success came from using AI as a creative supplement to homework time, not a replacement for learning. My daughter still had to think about which words needed jazzing up. She still had to choose which alternatives fit her sentences. The tool just made the discovery process more engaging and accessible.
+
+## Today's question:
+
+Could this same approach work for other homework challenges? Math word problems translated into kid-speak? Science concepts explained through their favorite characters? The potential is intriguing, but as always, the real test will be in the implementation.
 
 For now, though, I'm calling this one a win. Not because the AI was revolutionary, but because it did exactly what good technology should do: it made a frustrating task easier and more enjoyable for its user. Even if that user is eight and thinks K-Pop Demon Hunters is cinematic gold.
 

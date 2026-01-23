@@ -69,7 +69,7 @@ export default async function ExperimentPost({
           )}
 
           <div
-            className="prose prose-lg max-w-none prose-headings:font-serif prose-headings:font-semibold prose-a:text-dark prose-a:underline hover:prose-a:text-dark/70"
+            className="prose prose-lg max-w-none prose-headings:font-serif prose-headings:font-semibold prose-p:text-dark prose-li:text-dark prose-a:text-dark prose-a:underline hover:prose-a:text-dark/70"
             dangerouslySetInnerHTML={{ __html: contentHtml }}
           />
 

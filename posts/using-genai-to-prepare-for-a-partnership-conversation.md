@@ -28,7 +28,7 @@ I also popped the highlights of the analysis into Gamma to spin up an aesthetica
 
 💡 Takeaway: GenAI doesn’t replace preparation; it amplifies it. When you use it to see the world through your partner’s eyes, every conversation becomes a chance to explore what’s possible together.
 
-Meta-Experiment: Enhancing the Experiment
+## Meta-Experiment: Enhancing the Experiment
 
 Iteratively refining this post, including text and visuals, became its own GenAI experiment. Each round of collaboration turned insight into design, and design into a reusable framework.
 

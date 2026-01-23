@@ -9,9 +9,7 @@ tags: ["Claude"]
 
 ## Claude Projects: Building a Persistent AI Thinking Partner
 
-
-
-How I Used Claude Projects to Structure and Refine a Presentation
+## How I Used Claude Projects to Structure and Refine a Presentation
 
 I started by creating a dedicated Claude "project" for my presentation. Think of projects as persistent workspaces where Claude remembers your context across conversations. I did an initial brain dump of my general talk idea and asked Claude to help me create a structure and flow.
 
@@ -19,10 +17,12 @@ After comparing outputs from multiple AI tools, I returned to Claude for the rea
 
 Later in the process, I used Claude to help with proper slide structure given our agreed-upon content, then again to implement feedback from my book club practice session, and finally to refine my talk track.
 
-Key Learnings
+## Key Learnings
 
 Claude excels at sustained creative partnership. The project feature meant I didn't have to explain my context every time. Our conversations built on each other, creating genuine iteration rather than starting from scratch.
+
 Voice conversations change everything. Talking through structural decisions felt more natural than typing, especially for subjective creative choices. The back-and-forth helped me think, not just execute.
+
 Use Claude for decisions, not just drafting. My biggest "aha" moment: I wasn't asking Claude to write my presentation. I was using it as a thinking partner to make better choices about structure, flow, and narrative arc.
 
 The irony isn't lost on me. I'm asking you to experiment with AI tools in an article I created by experimenting with AI tools. But that's exactly the point. The messy process of trying, iterating, and discovering what works for you is where the value lives.

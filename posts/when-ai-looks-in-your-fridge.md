@@ -21,7 +21,7 @@ That answer was stronger. It listed the foods most likely to spoil first, sprout
 
 Still, the experience didn’t feel intelligent. It felt procedural.
 
-The Moment That Stood Out
+## The Moment That Stood Out
 
 I asked why it assumed I had rice. None was visible in the image.
 
@@ -33,15 +33,15 @@ When I asked about it directly, it said it couldn’t tell what was inside the b
 
 AI doesn’t only hallucinate by fabricating facts. It also hallucinates by filling in blanks selectively, making confident assumptions about what “should” exist while omitting the uncertain or inconvenient. It is, in other words, an editor of reality as much as an inventor of it.
 
-The Reveal
+## The Reveal
 
 The mystery bag contained cooked baby back ribs. Once I shared that, the system immediately shifted: rib salads, rib-and-egg skillets, low-carb brie melts. These were better, more grounded, more specific.
 
 But the improvement only happened after I asked the right question. It never asked me.
 
-The Takeaway
+## The Takeaway
 
-This wasn’t really about dinner. It was about how GenAI performs under partial information.
+This wasn't really about dinner. It was about how GenAI performs under partial information.
 
 GPT-5 wasn’t wrong about what it saw. It just didn’t know what to do with what it couldn’t see. It inferred where it felt safe and stayed silent where it felt uncertain.
 
