@@ -49,8 +49,18 @@ export default function Categories() {
           <h3 className="text-3xl md:text-4xl font-serif font-semibold mb-8">
             Tools Tested
           </h3>
+          <p className="text-lg leading-relaxed text-dark/70 mb-4">
+            ChatGPT (including GPT-5, Atlas, and custom GPTs), Claude, Claude Code, Gemini, Microsoft Copilot, Gamma, Perplexity, Poe.com, and more...
+          </p>
           <p className="text-lg leading-relaxed text-dark/70">
-            ChatGPT, Claude, Gemini, Midjourney, DALL-E, Runway, NotebookLM, Perplexity, and more...
+            Have a tool you think I should try?{" "}
+            <a
+              href="mailto:hello@dailyishgenaiexperiments.com?subject=Tool Suggestion"
+              className="underline hover:text-dark transition-colors font-semibold"
+            >
+              Send me your suggestions
+            </a>
+            .
           </p>
         </div>
       </div>
