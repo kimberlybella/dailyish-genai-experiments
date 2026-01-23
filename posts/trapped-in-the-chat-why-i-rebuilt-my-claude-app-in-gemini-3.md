@@ -15,19 +15,19 @@ I recently wrote a post about building a "Juicy Word Finder" for my second grade
 
 Because Claude is "smart" and dynamic, the app it built was essentially a window into a supercomputer. It could access a near-infinite vocabulary. If my daughter typed in a complex or obscure word, the AI backend could handle it instantly.
 
-The Problem: The Ferrari in the Garage 
+## The Problem: The Ferrari in the Garage
 
 But as I moved from "building" to "sharing," I hit a wall. When I asked, "How do I put this on my website?" the answer was a list of technical hurdles.
 
-Because the app relied on Claude’s live "brain" to function, I couldn't just copy-paste it. To share it with friends or put it on my site, I would have needed to set up a React environment, generate an API key, and pay for usage. I had built a Ferrari, but I couldn't take it out of the garage. It was an amazing tool that was completely stuck inside the chat window.
+Because the app relied on Claude's live "brain" to function, I couldn't just copy-paste it. To share it with friends or put it on my site, I would have needed to set up a React environment, generate an API key, and pay for usage. I had built a Ferrari, but I couldn't take it out of the garage. It was an amazing tool that was completely stuck inside the chat window.
 
-The Gemini Shift: "Dumbing It Down" to Ship It 
+## The Gemini Shift: "Dumbing It Down" to Ship It
 
 I took the exact same concept to Gemini, but with a new constraint. I didn't just ask for the app; I asked for code I could actually deploy to my GoDaddy website.
 
 Gemini took a completely different architectural approach. Instead of building a tool that "thinks" every time you click a button, it built a static app. It wrote a self-contained list of words and definitions directly into the JavaScript code.
 
-The Trade-off 
+## The Trade-off
 
 The Gemini version wasn't infinite. In fact, on the first test run, the app didn't even know the word "fun."
 
@@ -36,7 +36,7 @@ Gemini: "Updating the internal library now..."
 
 I had to manually ask it to expand the library of words. It was technically "dumber" than the Claude version because it wasn't connected to a live AI brain.
 
-The Lesson 
+## The Lesson
 
 But here is the win: It was portable. Because it didn't need an API key or a backend server, I could copy-paste the code directly onto my site and share it with my family immediately.
 

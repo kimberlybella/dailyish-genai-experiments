@@ -15,7 +15,7 @@ What jumped out? None of the evaluated firms scored a clean bill of health. Even
 
 That matters for all of us, even if you're like me and are eager to experiment with new technology and test the limits. Because here's the reality: these tools are not risk-free. The faster AI evolves, the bigger the stakes become.
 
-What This Means For Anyone Using GenAI (Including Me)
+## What This Means For Anyone Using GenAI (Including Me)
 
 No tool is "innocent" and even "free" has a cost. 
 
@@ -28,7 +28,7 @@ Safety isn't automatic. It requires vigilance. As capabilities grow, so do poten
 
 Your use matters. Even small, everyday interactions (deciding on wine, writing a note, planning a trip) sit on a spectrum that leads all the way up to existential questions if we get complacent.
 
-My Lesson: Experiment, But Know What You're Trying and What You're Betting
+## My Lesson: Experiment, But Know What You're Trying and What You're Betting
 
 I started Daily(ish) GenAI Experiments with pure enthusiasm: cool inputs lead to helpful outputs, and I learned something. The FLI Safety Index reminded me that behind every helpful AI prompt, there's a whole infrastructure of trade-offs, unseen development choices, and uncertain long-term risks.
 

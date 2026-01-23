@@ -11,7 +11,7 @@ tags: ["Gemini", "Images"]
 
 Yesterday's experiment started with a simple goal: test whether Google's latest image model understands context or just follows instructions. The results revealed both a massive leap forward in AI's ability to infer what you actually want, and the increasingly strict rules about what it's allowed to give you.
 
-The Context Test
+## The Context Test
 
 I uploaded a photo of a sweater on a mannequin. Nothing fancy, just a design with a mountain scene on it. My request? "Cartoon moose wearing this sweater."
 
@@ -19,7 +19,7 @@ The model didn't just slap the sweater texture onto a moose floating in white sp
 
 That's the kind of context understanding that makes you stop and think. Previous models required you to spell out every detail. This one looked at a sweater and thought "I know exactly what kind of scene this belongs in."
 
-The Identity Wall
+## The Identity Wall
 
 Feeling confident, I decided to push the personalization angle. I uploaded a selfie and asked Gemini to make the moose look more like me.
 
@@ -35,33 +35,29 @@ Alter the moose's expression or pose? Let me know what other fun ideas you have!
 
 The phrasing is fascinating. "Unintended or stereotypical depictions." The guardrails aren't just about preventing deepfakes anymore. This one seems to be about avoiding any transformation that could be seen as reducing a human identity to cartoon characteristics. Fair enough. The line between fun cartoon and potential offense is probably thinner than we'd like to admit.
 
-The Workaround
+## The Workaround
 
 So I pivoted. Instead of merging me into the moose, I asked to add myself to the scene next to the moose. This worked perfectly. It generated a genuinely good cartoon version of me, sitting right there in the log cabin with my moose buddy. Same facial features, same general vibe, just cartoonified.
 
 The distinction is telling. The AI can create cartoon versions of real people. It just won't blend human identities with non-human forms. That's a very specific guardrail, and probably a smart one.
 
-The Upgrade Push
+## The Upgrade Push
 
 Here's something the marketing materials don't emphasize: you'll hit your Nano Banana Pro usage limit faster than you'd expect on the free tier. I got through maybe 3 generations before getting the "you've reached your limit" message and had to finish the experiment today. It was that good though, and I want to try and do more, so I upgraded. If you're planning to use this for actual creative work rather than occasional experiments, you'll need to be strategic about your requests.
 
-What This Reveals
+## What This Reveals
 
 The good news: prompt engineering is becoming less necessary. The model genuinely understands context and can infer what you probably want from minimal instruction. That cabin scene proved it understands visual storytelling, not just object placement.
 
 The friction: as these tools get better at seeing and understanding us, the rules about how they can use our images are getting stricter. Every request that involves human faces now runs through multiple safety checks. Some of those checks seem overly cautious (cartoon moose with my features), while others make perfect sense (no deepfake potential).
 
-The Bottom Line
+## The Bottom Line
 
 Nano Banana Pro feels significantly faster and smarter than previous iterations. The contextual understanding is genuinely impressive. But between the strict guardrails and the surprisingly low usage limits, it's clear this is still a tool finding its balance between capability and control.
 
 For casual experiments and specific creative tasks, it's excellent. For anyone expecting unlimited creative freedom or high-volume generation, you'll need to adjust your expectations. The future of AI image generation isn't just about what's technically possible anymore. It's about what we've collectively decided is acceptable.
 
 And honestly? After seeing how quickly it understood that mountain sweater belonged in a cabin, I'm okay with trading some flexibility for that level of contextual intelligence. Even if I can't get my moose-self portrait.
-
-Article content
-
-
 
 ## Tools Used
 

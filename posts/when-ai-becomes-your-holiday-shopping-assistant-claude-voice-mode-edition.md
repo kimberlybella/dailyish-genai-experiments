@@ -25,29 +25,29 @@ The response? "Good point! Since she works there, she probably sees all that stu
 
 That moment perfectly captured both AI's limitations and its strengths. It didn't automatically infer "works at Store X = don't suggest gifts from Store X." That required explicit correction. But once corrected, it adapted instantly and found a genuinely better alternative based on other context clues from our conversation.
 
-What worked:
+## What worked:
 
 Voice Mode let me think out loud while keeping my eyes on the road, interrupting myself and adding details as I remembered them
 It caught that I prefer shopping in-store to see quality firsthand, then suggested actual local businesses instead of defaulting to Amazon links
 Once corrected on the craft store issue, it didn't just acknowledge the mistake but actively used that information to pivot the entire recommendation strategy
 
-What this reveals:
+## What this reveals:
 
 The craft store moment is instructive. The AI was technically correct that someone interested in crafts might enjoy craft supplies. It just couldn't make the social inference that getting someone a gift from their own workplace is awkward. That required human judgment.
 
 But once I provided that context, it actively incorporated it into the planning. That's the real value here: not replacing human judgment, but accommodating the messy, nonlinear way we actually think through problems. I didn't start with a perfect spreadsheet. I started with "I need to plan gifts" and stumbled through details while navigating traffic.
 
-The bigger picture:
+## The bigger picture:
 
 This raises interesting questions about voice interfaces for hands-free moments. Most voice assistants feel like you have to phrase everything perfectly. But a tool that can handle conversational flow during a 20-minute drive, remember context across multiple tangents, accept corrections gracefully, and adapt recommendations? That's genuinely valuable.
 
 Though apparently I still need to provide the social context that "don't buy someone a gift from where they work."
 
-Today's question:
+## Today's question:
 
 Could this same approach work for other planning challenges that happen during commute time? Trip itineraries that adapt to budget changes? Home renovation decisions that factor in conflicting priorities? And how many of those tasks will require similar social context corrections that AI can't infer on its own?
 
-The bottom line:
+## The bottom line:
 
 I went into this expecting to maybe narrow down my options. I came out with a complete shopping strategy: specific stores to visit, product categories to explore, and a clear plan to avoid the gift-from-workplace disaster. Will I actually execute on it? Ask me after Thanksgiving. But for the first time in years, I'm not dreading the holiday shopping gauntlet.
 
