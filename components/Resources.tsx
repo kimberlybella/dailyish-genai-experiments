@@ -10,11 +10,11 @@ const resources = [
     platform: "Newsletter"
   },
   {
-    name: "The Batch",
-    author: "Andrew Ng",
-    description: "Weekly AI news and insights from DeepLearning.AI founder Andrew Ng.",
-    url: "https://www.linkedin.com/newsletters/6463882935064891392/",
-    platform: "Newsletter"
+    name: "The Most Interesting Thing in Tech",
+    author: "Nicholas Thompson",
+    description: "Daily tech insights and commentary from the CEO of The Atlantic. Short, engaging videos covering AI and tech's biggest developments.",
+    url: "https://www.linkedin.com/in/nicholasxthompson/",
+    platform: "LinkedIn"
   },
   {
     name: "Hard Fork",
