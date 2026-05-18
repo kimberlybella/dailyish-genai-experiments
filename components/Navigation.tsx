@@ -18,6 +18,9 @@ export default function Navigation() {
             <Link href="/games" className="hover:text-light/70 transition-colors">
               Games
             </Link>
+            <Link href="/patents" className="hover:text-light/70 transition-colors">
+              Patent Watch
+            </Link>
             <Link href="/about" className="hover:text-light/70 transition-colors">
               About
             </Link>
