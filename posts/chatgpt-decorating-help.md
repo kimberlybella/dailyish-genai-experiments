@@ -3,7 +3,7 @@ title: "I Don't Know Anything About Decorating. ChatGPT Doesn't Either. We Helpe
 date: "2026-03-24"
 category: "AI Tools"
 excerpt: "A friend who doesn't use AI tools asked me for decorating advice. They're furnishing a lake house living room and wanted to know what accent chair colors would work with what they already had. I don't have an interior design background. But I do have ChatGPT..."
-image: "/images/posts/i-dont-know-anything-about-decorating-chatgpt-doesnt-either-we-helped-anyway.png"
+image: "/images/posts/chatgpt-decorating-help.png"
 tags: ["ChatGPT", "Privacy", "Images", "Shopping"]
 ---
 

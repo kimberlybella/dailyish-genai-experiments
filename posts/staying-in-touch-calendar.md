@@ -3,7 +3,7 @@ title: "Outsourcing the Logistics of Staying in Touch"
 date: "2026-05-18"
 category: "Tool Comparison"
 excerpt: "I have a group of girlfriends from business school who are scattered across the country, all of us over 40, most of us with little kids, and the kind of busy where months can disappear without anyone realizing nobody has texted the group chat. We landed on a small ritual to fix that..."
-image: "/images/posts/outsourcing-the-logistics-of-staying-in-touch.png"
+image: "/images/posts/staying-in-touch-calendar.png"
 tags: ["Claude", "Gemini"]
 ---
 

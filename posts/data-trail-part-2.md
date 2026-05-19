@@ -3,7 +3,7 @@ title: "The Data Trail We Leave Behind - Part 2: Making Decisions in the Dark"
 date: "2026-02-19"
 category: "AI Tools"
 excerpt: "In Part 1, I explored how my data lives in fragments across AI platforms, with each company holding incomplete and potentially distorted representations of who I am. The deeper problem isn't just that these fragments exist. It's that the companies controlling them are making choices that undermine the very trust they need from users..."
-image: "/images/posts/the-data-trail-we-leave-behind-part-2-making-decisions-in-the-dark.png"
+image: "/images/posts/data-trail-part-2.png"
 tags: ["Privacy", "Claude Code", "ChatGPT", "Gemini", "Claude"]
 ---
 

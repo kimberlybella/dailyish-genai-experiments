@@ -3,7 +3,7 @@ title: "Finally, an AI That's Actually Opened PowerPoint Before"
 date: "2026-04-23"
 category: "Tool Comparison"
 excerpt: "After months of janky decks, hallucinated quotes, and layouts only a dot-matrix printer could love, Claude's PowerPoint integration felt like working with someone who had genuinely done this before."
-image: "/images/posts/finally-an-ai-thats-actually-opened-powerpoint-before.png"
+image: "/images/posts/claude-powerpoint-integration.png"
 tags: ["Claude", "ChatGPT", "Gemini"]
 ---
 
@@ -19,7 +19,7 @@ If you've been following this newsletter, you already know the Gamma story, but 
 
 What followed was months of running variations of the same basic task across different tools, and I kept arriving at the same fork in the road. On one side were tools that produced visually compelling slides filled with confidently wrong or placeholder content, FPO material dressed up as finished work with no signal to the user that the underlying substance was invented. On the other side were tools that could give you every word you needed, but when it came to showing you what the slide would actually look like, they'd render the layout directly in the chat window using brackets and pipes and dashes arranged into something that was technically a visual in the same way that a dot-matrix printer technically produced graphics. You knew what it was trying to be. That wasn't the same as it being useful.
 
-![Formatting failures that accumulated across earlier deck-building sessions](/images/posts/finally-an-ai-thats-actually-opened-powerpoint-before-formatting-failures.png)
+![Formatting failures that accumulated across earlier deck-building sessions](/images/posts/claude-powerpoint-integration-formatting-failures.png)
 
 The formatting failures that accumulated across those sessions were rarely dramatic in isolation. A title spilling past its text box, fonts shifting mid-deck for no discernible reason, a table that had somehow decided the edge of a slide was a suggestion rather than a boundary. Each one took maybe thirty seconds to fix, but there were always more of them, and correcting one had a frustrating tendency to introduce another.
 
@@ -31,7 +31,7 @@ I used Claude's PowerPoint add-in to build the deck for my classmate's talk. It 
 
 The build was substantial: multiple slides, a structured timeline, data tables, a content framework, a closing argument. The kind of project where formatting problems tend to compound rather than stay contained. After generating the initial deck, Claude used the tools available to it to open the file, inspect what it had made, and report back before I asked. It found four layout problems and fixed them:
 
-![Claude's report of the four layout problems it caught and corrected](/images/posts/finally-an-ai-thats-actually-opened-powerpoint-before-layout-fixes.png)
+![Claude's report of the four layout problems it caught and corrected](/images/posts/claude-powerpoint-integration-layout-fixes.png)
 
 Four layout problems caught and corrected before the file landed in front of me, which represented a fundamentally different experience than anything I'd had with this category of tools, where running that audit has always been my job to do after the fact.
 
@@ -43,7 +43,7 @@ Claude didn't catch that one on its own. I had to notice something was off and a
 
 Here's my read on what's different, and why it matters beyond presentations specifically. The gap that's been closing isn't raw capability, since these models have been able to handle content work for a while. The gap has been execution awareness: whether the tool understands that its output exists in a real context with real constraints, and whether it has any mechanism to verify that before handing something over.
 
-![Why a feedback loop on a tool's own output changes the experience](/images/posts/finally-an-ai-thats-actually-opened-powerpoint-before-feedback-loop.png)
+![Why a feedback loop on a tool's own output changes the experience](/images/posts/claude-powerpoint-integration-feedback-loop.png)
 
 Almost every failure I've documented in this newsletter, the hallucinations, the formatting disasters, the last-mile problems where AI gets 99% right and then falls apart on practical utility, traces back to tools that have no feedback loop on their own outputs and no way of knowing whether what they produced actually works in the context it was built for. When a tool can check its own work, the entire experience shifts. It's not that errors disappear, but the ones that do make it through start to feel like honest mistakes rather than confident confabulations.
 
