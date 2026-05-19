@@ -3,7 +3,7 @@ title: "The Instructions That Held, The Ones I Had to Keep Repeating, and the On
 date: "2026-04-16"
 category: "Tool Comparison"
 excerpt: "A few months ago I published a piece on using custom instructions to reduce hallucinations in AI research. What I didn't anticipate was how differently that protocol would behave depending on where the instructions lived, how I delivered them, and what happened when a tool decided on its own that I wasn't going to settle for guessing."
-image: "/images/posts/the-instructions-that-held-the-ones-i-had-to-keep-repeating-and-the-one-that-taught-itself.jpg"
+image: "/images/posts/the-instructions-that-held-the-ones-i-had-to-keep-repeating-and-the-one-that-taught-itself.png"
 tags: ["Gemini", "Claude", "Data Analysis"]
 ---
 

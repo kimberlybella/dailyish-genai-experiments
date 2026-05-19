@@ -3,7 +3,7 @@ title: "When the Chart Is Just Wrong; What a Market Cap Visualization Taught Me 
 date: "2026-05-07"
 category: "AI Tools"
 excerpt: "I started with what seemed like a simple ask, a scatterplot comparing the largest US companies by market cap in 2005 versus 2025, with tech companies in one color and everything else in another. What I got instead was a master class in what productive iteration with an AI tool actually looks like..."
-image: "/images/posts/when-the-chart-is-just-wrong-what-a-market-cap-visualization-taught-me-about-iterating-with-ai.jpg"
+image: "/images/posts/when-the-chart-is-just-wrong-what-a-market-cap-visualization-taught-me-about-iterating-with-ai.png"
 tags: ["Claude", "Data Analysis"]
 ---
 
