@@ -88,6 +88,42 @@ export const patents: Patent[] = [
     patentUrl: "https://patents.google.com/patent/US12572954B2/en",
     newsReferences: [
       {
+        title: "DOJ's Antitrust Division Has Its Eye On 'Algorithmic Collusion'",
+        url: "https://www.pymnts.com/cpi-posts/dojs-antitrust-division-has-its-eye-on-algorithmic-collusion/",
+        outlet: "Competition Policy International",
+        date: "May 2026",
+      },
+      {
+        title: "The push to target surveillance pricing now lies in the New York Assembly",
+        url: "https://spectrumlocalnews.com/nys/central-ny/politics/2026/05/19/surveillance-pricing-",
+        outlet: "Spectrum News",
+        date: "May 2026",
+      },
+      {
+        title: "Why surveillance pricing bans are suddenly gaining traction this year (and not just in California)",
+        url: "https://calmatters.org/economy/technology/2026/05/why-surveillance-pricing-bans-are-suddenly-gaining-traction-this-year-and-not-just-in-california/",
+        outlet: "CalMatters",
+        date: "May 2026",
+      },
+      {
+        title: "States Rush to Ban AI-Generated 'Surveillance Pricing' That Uses Shoppers' Personal Data",
+        url: "https://money.com/surveillance-pricing-grocery-laws/",
+        outlet: "Money",
+        date: "May 2026",
+      },
+      {
+        title: "Union Seeks Ban on 'Surveillance Pricing' at Grocery Stores",
+        url: "https://civileats.com/2026/05/19/union-seeks-ban-on-surveillance-pricing-at-grocery-stores/",
+        outlet: "Civil Eats",
+        date: "May 2026",
+      },
+      {
+        title: "Gottheimer Announces New Bipartisan Legislation to Ban AI Surveillance Pricing at Grocery Stores & Delivery Services",
+        url: "https://gottheimer.house.gov/posts/release-gottheimer-announces-new-bipartisan-legislation-to-ban-ai-surveillance-pricing-at-grocery-stores-delivery-services",
+        outlet: "Office of Congressman Josh Gottheimer",
+        date: "May 2026",
+      },
+      {
         title: "Walmart Secures Two AI Pricing Patents, Raising Dynamic Pricing Concerns",
         url: "https://techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html",
         outlet: "TechSpot",
@@ -127,6 +163,42 @@ export const patents: Patent[] = [
     patentUrl: "https://patents.google.com/patent/US12524776B2/en",
     newsReferences: [
       {
+        title: "DOJ's Antitrust Division Has Its Eye On 'Algorithmic Collusion'",
+        url: "https://www.pymnts.com/cpi-posts/dojs-antitrust-division-has-its-eye-on-algorithmic-collusion/",
+        outlet: "Competition Policy International",
+        date: "May 2026",
+      },
+      {
+        title: "The push to target surveillance pricing now lies in the New York Assembly",
+        url: "https://spectrumlocalnews.com/nys/central-ny/politics/2026/05/19/surveillance-pricing-",
+        outlet: "Spectrum News",
+        date: "May 2026",
+      },
+      {
+        title: "Why surveillance pricing bans are suddenly gaining traction this year (and not just in California)",
+        url: "https://calmatters.org/economy/technology/2026/05/why-surveillance-pricing-bans-are-suddenly-gaining-traction-this-year-and-not-just-in-california/",
+        outlet: "CalMatters",
+        date: "May 2026",
+      },
+      {
+        title: "States Rush to Ban AI-Generated 'Surveillance Pricing' That Uses Shoppers' Personal Data",
+        url: "https://money.com/surveillance-pricing-grocery-laws/",
+        outlet: "Money",
+        date: "May 2026",
+      },
+      {
+        title: "Union Seeks Ban on 'Surveillance Pricing' at Grocery Stores",
+        url: "https://civileats.com/2026/05/19/union-seeks-ban-on-surveillance-pricing-at-grocery-stores/",
+        outlet: "Civil Eats",
+        date: "May 2026",
+      },
+      {
+        title: "Gottheimer Announces New Bipartisan Legislation to Ban AI Surveillance Pricing at Grocery Stores & Delivery Services",
+        url: "https://gottheimer.house.gov/posts/release-gottheimer-announces-new-bipartisan-legislation-to-ban-ai-surveillance-pricing-at-grocery-stores-delivery-services",
+        outlet: "Office of Congressman Josh Gottheimer",
+        date: "May 2026",
+      },
+      {
         title: "Walmart Secures Two AI Pricing Patents, Raising Dynamic Pricing Concerns",
         url: "https://techspot.com/news/111752-walmart-secures-two-ai-pricing-patents-raising-dynamic.html",
         outlet: "TechSpot",
@@ -163,6 +235,14 @@ export const patents: Patent[] = [
     description:
       "Amazon's foundational dynamic pricing patent — the original architecture for adjusting prices in real time based on demand signals, competitor data, and inventory levels. Granted in 2006, this is the upstream ancestor of the entire algorithmic pricing patent landscape now being contested in regulatory proceedings and state legislatures. The infrastructure it describes — continuous price monitoring, automated adjustment triggers, competitive benchmarking — is what the FTC's 2024 surveillance-pricing study characterized as a systemic threat to consumer welfare.",
     patentUrl: "https://patents.google.com/patent/US7133848B2/en",
+    newsReferences: [
+      {
+        title: "DOJ's Antitrust Division Has Its Eye On 'Algorithmic Collusion'",
+        url: "https://www.pymnts.com/cpi-posts/dojs-antitrust-division-has-its-eye-on-algorithmic-collusion/",
+        outlet: "Competition Policy International",
+        date: "May 2026",
+      },
+    ],
     addedDate: "2026-05-18",
   },
 
@@ -178,6 +258,12 @@ export const patents: Patent[] = [
       "Constructs a persistent AI persona from a user's behavioral, emotional, and interaction data — including post-mortem operation (posthumous digital presence). The system analyzes a lifetime of platform activity to generate a digital twin capable of posting, reacting, and interacting on the user's behalf, including after death. Originally filed by Meta CTO Andrew Bosworth in 2023; granted December 2025 and published February 2026. Meta has stated it has no current plans to ship this as a product, describing it as a protective filing — the same framing used across the tobacco-playbook 'deny' phase. The most-cited patent across all daily briefing editions.",
     patentUrl: "https://patents.google.com/patent/US12513102B2/en",
     newsReferences: [
+      {
+        title: "Your Voice Could Live On as a \"Ghostbot\" — Without Consent: Lawyers Warn AI Afterlife Rights Are Still a Legal Gray Area",
+        url: "https://www.savingadvice.com/articles/2026/05/18/10736018_your-voice-could-live-on-as-a-ghostbot-without-consent-lawyers-warn-ai-afterlife-rights-are-still-a-legal-gray-area.html",
+        outlet: "SavingAdvice.com",
+        date: "May 2026",
+      },
       {
         title: "Meta's AI Patent to Simulate Dead People Shows the Dangers of 'Spectral Labor'",
         url: "https://www.404media.co/metas-ai-patent-to-simulate-dead-people-shows-the-dangers-of-spectral-labor/",
@@ -217,6 +303,20 @@ export const patents: Patent[] = [
     description:
       "Applies large language models to real-time speech to infer the speaker's emotional state — enabling emotion-aware responses, personalization, and targeting at scale across Google's voice and search surfaces. The architecture moves emotion inference from keyword-based heuristics to continuous, context-sensitive LLM analysis of tone, prosody, and content together. Published February 2025; surfaced in the May 11 briefing in the context of the EU AI Act's August 2026 emotion-AI compliance deadline.",
     patentUrl: "https://patents.google.com/patent/US20250061917A1/en",
+    newsReferences: [
+      {
+        title: "EU AI Act Omnibus extends high-risk deadlines to 2027, widens SME relief",
+        url: "https://www.resultsense.com/news/2026-05-14-eu-ai-act-omnibus-deadlines-extension/",
+        outlet: "Resultsense",
+        date: "May 2026",
+      },
+      {
+        title: "EU AI Act omnibus: what changed on 7 May 2026 and what to do about it",
+        url: "https://verifywise.ai/blog/eu-ai-act-omnibus-what-changed",
+        outlet: "VerifyWise",
+        date: "May 2026",
+      },
+    ],
     addedDate: "2026-05-18",
   },
 
@@ -299,7 +399,44 @@ export const patents: Patent[] = [
     description:
       "Dynamic token generation and scoping for payment transactions — the underlying credential architecture for Visa's Intelligent Commerce Connect agent payment platform. The system enables AI agents to be issued payment credentials scoped to a specific agent identity, spending limits, and permitted merchant categories, so that an autonomous agent can complete purchases within a defined consent boundary without exposing the consumer's underlying card credentials. Filed June 2024; part of the broader Visa/Mastercard race to own the credential layer of agentic commerce.",
     patentUrl: "https://patents.google.com/patent/US20260006023A1/en",
+    newsReferences: [
+      {
+        title: "Visa Wants to Make AI Shoppers as Trusted as Human Ones",
+        url: "https://www.pymnts.com/visa/2026/visa-wants-to-make-ai-shoppers-as-trusted-as-human-ones/",
+        outlet: "PYMNTS",
+        date: "May 2026",
+      },
+      {
+        title: "When AI shops for you: Visa and Mastercard bet on agentic payments",
+        url: "https://www.electronicpaymentsinternational.com/analyst-comment/visa-mastercard-bet-agentic-payments/",
+        outlet: "Electronic Payments International",
+        date: "May 2026",
+      },
+    ],
     addedDate: "2026-05-18",
+  },
+
+  // ── Consumer Financial AI ─────────────────────────────────────────────────
+
+  {
+    id: "US20260111964A1",
+    title:
+      "Method and System for Training and Fine-Tuning Large Language Models in Generating Stock Ratings Predictions",
+    applicant: "JPMorgan Chase",
+    category: "Consumer Financial AI",
+    datePublished: "2026-04-23",
+    description:
+      "The system constructs structured prompts from a company's historical stock data, financial fundamentals, and AI-compressed news summaries, then directs a large language model to produce analyst-style buy, hold, or sell ratings across 1-, 3-, 6-, 12-, and 18-month horizons. It ingests company identifiers, historical price returns, earnings and revenue figures, raw news articles filtered and summarized by a preprocessing LLM, and news-derived sentiment scores on a −5 to +5 scale. A chain-of-verification step asks the LLM to explain its reasoning and checks date calculations as a hallucination guard; the model can also be fine-tuned on ground-truth forward-return labels using LoRA. JPMorgan is patenting the infrastructure for AI-automated equity research — a system that could influence retail investor decisions through AI-generated ratings without the transparency or accountability requirements that apply to licensed human analysts.",
+    patentUrl: "https://patents.google.com/patent/US20260111964A1/en",
+    newsReferences: [
+      {
+        title: "JPMorgan Seeks Patent for AI-Generated Stock Ratings",
+        url: "https://www.ai-street.co/p/jpmorgan-seeks-patent-for-ai-generated",
+        outlet: "AI Street",
+        date: "2026-05-19",
+      },
+    ],
+    addedDate: "2026-05-22",
   },
 
   // ── Other ─────────────────────────────────────────────────────────────────
