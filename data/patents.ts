@@ -88,6 +88,18 @@ export const patents: Patent[] = [
     patentUrl: "https://patents.google.com/patent/US12572954B2/en",
     newsReferences: [
       {
+        title: "Majority of Americans Support Ban on Surveillance Pricing and Electronic Shelf Labels",
+        url: "https://gizmodo.com/majority-of-americans-support-ban-on-surveillance-pricing-and-electronic-shelf-labels-2000762717",
+        outlet: "Gizmodo",
+        date: "May 2026",
+      },
+      {
+        title: "Surveillance Pricing: You're Watching Consumers — and Government Is Watching You",
+        url: "https://www.corporatecomplianceinsights.com/surveillance-pricing-government-watching/",
+        outlet: "Corporate Compliance Insights",
+        date: "May 2026",
+      },
+      {
         title: "DOJ's Antitrust Division Has Its Eye On 'Algorithmic Collusion'",
         url: "https://www.pymnts.com/cpi-posts/dojs-antitrust-division-has-its-eye-on-algorithmic-collusion/",
         outlet: "Competition Policy International",
@@ -162,6 +174,18 @@ export const patents: Patent[] = [
       "A machine learning system that uses price elasticity data and predicted demand to automatically generate markdown prices across Walmart's e-commerce platform. The patent covers two model paths: a primary model that fires when both elasticity and demand data are available (enabling precise per-item optimization), and a decay-rate fallback for when they are not — both bounded by configurable upper and lower price limits. Walmart publicly characterizes this as a 'markdown tool' rather than a dynamic or personalized pricing engine, but the underlying data infrastructure — per-item elasticity modeling, real-time demand signals — would make consumer-characteristic pricing technically feasible at scale. This is one of approximately 50 US patents Walmart secured in 2026.",
     patentUrl: "https://patents.google.com/patent/US12524776B2/en",
     newsReferences: [
+      {
+        title: "Majority of Americans Support Ban on Surveillance Pricing and Electronic Shelf Labels",
+        url: "https://gizmodo.com/majority-of-americans-support-ban-on-surveillance-pricing-and-electronic-shelf-labels-2000762717",
+        outlet: "Gizmodo",
+        date: "May 2026",
+      },
+      {
+        title: "Surveillance Pricing: You're Watching Consumers — and Government Is Watching You",
+        url: "https://www.corporatecomplianceinsights.com/surveillance-pricing-government-watching/",
+        outlet: "Corporate Compliance Insights",
+        date: "May 2026",
+      },
       {
         title: "DOJ's Antitrust Division Has Its Eye On 'Algorithmic Collusion'",
         url: "https://www.pymnts.com/cpi-posts/dojs-antitrust-division-has-its-eye-on-algorithmic-collusion/",
