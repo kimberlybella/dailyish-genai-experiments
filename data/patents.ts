@@ -88,6 +88,24 @@ export const patents: Patent[] = [
     patentUrl: "https://patents.google.com/patent/US12572954B2/en",
     newsReferences: [
       {
+        title: "Walmart patents new AI technology to 'automatically update item prices'",
+        url: "https://www.themirror.com/lifestyle/shopping/walmart-patents-ai-powered-pricing-1750390",
+        outlet: "The Mirror US",
+        date: "March 2026",
+      },
+      {
+        title: "What Walmart's AI Pricing Patents Mean for Every Retailer",
+        url: "https://www.inc.com/christopher-yang/what-walmarts-ai-pricing-patents-mean-for-every-retailer/91350049",
+        outlet: "Inc.",
+        date: "May 2026",
+      },
+      {
+        title: "Walmart Surveillance Pricing Push Alarms 68% of Americans, Three States Now Banned It",
+        url: "https://www.techtimes.com/articles/317279/20260527/walmart-surveillance-pricing-push-alarms-68-americans-three-states-now-banned-it.htm",
+        outlet: "Tech Times",
+        date: "May 2026",
+      },
+      {
         title: "Majority of Americans Support Ban on Surveillance Pricing and Electronic Shelf Labels",
         url: "https://gizmodo.com/majority-of-americans-support-ban-on-surveillance-pricing-and-electronic-shelf-labels-2000762717",
         outlet: "Gizmodo",
@@ -175,6 +193,24 @@ export const patents: Patent[] = [
     patentUrl: "https://patents.google.com/patent/US12524776B2/en",
     newsReferences: [
       {
+        title: "Walmart patents new AI technology to 'automatically update item prices'",
+        url: "https://www.themirror.com/lifestyle/shopping/walmart-patents-ai-powered-pricing-1750390",
+        outlet: "The Mirror US",
+        date: "March 2026",
+      },
+      {
+        title: "What Walmart's AI Pricing Patents Mean for Every Retailer",
+        url: "https://www.inc.com/christopher-yang/what-walmarts-ai-pricing-patents-mean-for-every-retailer/91350049",
+        outlet: "Inc.",
+        date: "May 2026",
+      },
+      {
+        title: "Walmart Surveillance Pricing Push Alarms 68% of Americans, Three States Now Banned It",
+        url: "https://www.techtimes.com/articles/317279/20260527/walmart-surveillance-pricing-push-alarms-68-americans-three-states-now-banned-it.htm",
+        outlet: "Tech Times",
+        date: "May 2026",
+      },
+      {
         title: "Majority of Americans Support Ban on Surveillance Pricing and Electronic Shelf Labels",
         url: "https://gizmodo.com/majority-of-americans-support-ban-on-surveillance-pricing-and-electronic-shelf-labels-2000762717",
         outlet: "Gizmodo",
@@ -261,6 +297,18 @@ export const patents: Patent[] = [
     patentUrl: "https://patents.google.com/patent/US7133848B2/en",
     newsReferences: [
       {
+        title: "How Amazon's AI Algorithms Raise the Prices You Pay",
+        url: "https://washingtonmonthly.com/2026/04/20/how-amazons-ai-algorithms-raise-the-prices-you-pay/",
+        outlet: "Washington Monthly",
+        date: "April 2026",
+      },
+      {
+        title: "AI Pricing Isn't the Enemy Consumers Think It Is",
+        url: "https://www.pymnts.com/news/artificial-intelligence/2026/ai-pricing-is-not-enemy-consumers-think-it-is/",
+        outlet: "PYMNTS",
+        date: "May 2026",
+      },
+      {
         title: "DOJ's Antitrust Division Has Its Eye On 'Algorithmic Collusion'",
         url: "https://www.pymnts.com/cpi-posts/dojs-antitrust-division-has-its-eye-on-algorithmic-collusion/",
         outlet: "Competition Policy International",
@@ -282,6 +330,12 @@ export const patents: Patent[] = [
       "Constructs a persistent AI persona from a user's behavioral, emotional, and interaction data — including post-mortem operation (posthumous digital presence). The system analyzes a lifetime of platform activity to generate a digital twin capable of posting, reacting, and interacting on the user's behalf, including after death. Originally filed by Meta CTO Andrew Bosworth in 2023; granted December 2025 and published February 2026. Meta has stated it has no current plans to ship this as a product, describing it as a protective filing — the same framing used across the tobacco-playbook 'deny' phase. The most-cited patent across all daily briefing editions.",
     patentUrl: "https://patents.google.com/patent/US12513102B2/en",
     newsReferences: [
+      {
+        title: "Meta patents AI that could keep you posting from beyond the grave",
+        url: "https://www.malwarebytes.com/blog/ai/2026/02/meta-patents-ai-that-could-keep-you-posting-from-beyond-the-grave",
+        outlet: "Malwarebytes",
+        date: "February 2026",
+      },
       {
         title: "Your Voice Could Live On as a \"Ghostbot\" — Without Consent: Lawyers Warn AI Afterlife Rights Are Still a Legal Gray Area",
         url: "https://www.savingadvice.com/articles/2026/05/18/10736018_your-voice-could-live-on-as-a-ghostbot-without-consent-lawyers-warn-ai-afterlife-rights-are-still-a-legal-gray-area.html",
@@ -425,6 +479,12 @@ export const patents: Patent[] = [
     patentUrl: "https://patents.google.com/patent/US20260006023A1/en",
     newsReferences: [
       {
+        title: "Card Networks Use Trust and Identity to Build Agentic Commerce",
+        url: "https://www.pymnts.com/news/artificial-intelligence/2026/card-networks-use-trust-identity-build-agentic-commerce/",
+        outlet: "PYMNTS",
+        date: "May 2026",
+      },
+      {
         title: "Visa Wants to Make AI Shoppers as Trusted as Human Ones",
         url: "https://www.pymnts.com/visa/2026/visa-wants-to-make-ai-shoppers-as-trusted-as-human-ones/",
         outlet: "PYMNTS",
@@ -475,6 +535,18 @@ export const patents: Patent[] = [
       "Scores a retailer's landing page in real time against a user's search intent, past queries, location, and conversion signals. If the page underperforms a threshold — based on bounce rate, click-through rate, or conversion quality — Google automatically substitutes an AI-generated replacement page, without the retailer's knowledge or consent. Granted January 27, 2026; filed July 2024. Widely covered as 'Google patented the right to replace your website.' The consumer data implications are significant: the system requires continuous behavioral tracking of users across sessions to generate the intent signals that trigger replacement.",
     patentUrl: "https://patents.google.com/patent/US12536233B1/en",
     newsReferences: [
+      {
+        title: "Google's AI Generated Landing Page Patent Is Limited To Shopping & Ads",
+        url: "https://www.searchenginejournal.com/google-ai-generated-landing-page-patent-is-limited-to-shopping-ads/568650/",
+        outlet: "Search Engine Journal",
+        date: "March 2026",
+      },
+      {
+        title: "Google Patent Signals New Search Layer",
+        url: "https://www.practicalecommerce.com/google-patent-signals-new-search-layer",
+        outlet: "Practical Ecommerce",
+        date: "April 2026",
+      },
       {
         title: "Google issued a patent for creating AI-generated product landing pages",
         url: "https://www.shopifreaks.com/google-issued-a-patent-for-creating-ai-generated-product-landing-pages/",
