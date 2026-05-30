@@ -88,6 +88,12 @@ export const patents: Patent[] = [
     patentUrl: "https://patents.google.com/patent/US12572954B2/en",
     newsReferences: [
       {
+        title: "California state Assembly passes key bill to prohibit surveillance pricing",
+        url: "https://advocacy.consumerreports.org/press_release/california-state-assembly-passes-key-bill-to-prohibit-surveillance-pricing/",
+        outlet: "Consumer Reports",
+        date: "May 2026",
+      },
+      {
         title: "Walmart patents new AI technology to 'automatically update item prices'",
         url: "https://www.themirror.com/lifestyle/shopping/walmart-patents-ai-powered-pricing-1750390",
         outlet: "The Mirror US",
@@ -192,6 +198,12 @@ export const patents: Patent[] = [
       "A machine learning system that uses price elasticity data and predicted demand to automatically generate markdown prices across Walmart's e-commerce platform. The patent covers two model paths: a primary model that fires when both elasticity and demand data are available (enabling precise per-item optimization), and a decay-rate fallback for when they are not — both bounded by configurable upper and lower price limits. Walmart publicly characterizes this as a 'markdown tool' rather than a dynamic or personalized pricing engine, but the underlying data infrastructure — per-item elasticity modeling, real-time demand signals — would make consumer-characteristic pricing technically feasible at scale. This is one of approximately 50 US patents Walmart secured in 2026.",
     patentUrl: "https://patents.google.com/patent/US12524776B2/en",
     newsReferences: [
+      {
+        title: "California state Assembly passes key bill to prohibit surveillance pricing",
+        url: "https://advocacy.consumerreports.org/press_release/california-state-assembly-passes-key-bill-to-prohibit-surveillance-pricing/",
+        outlet: "Consumer Reports",
+        date: "May 2026",
+      },
       {
         title: "Walmart patents new AI technology to 'automatically update item prices'",
         url: "https://www.themirror.com/lifestyle/shopping/walmart-patents-ai-powered-pricing-1750390",
