@@ -88,6 +88,84 @@ export const patents: Patent[] = [
     patentUrl: "https://patents.google.com/patent/US12572954B2/en",
     newsReferences: [
       {
+        title: "Walmart's AI-Driven Surveillance Pricing Sparks Public Backlash and State Bans",
+        url: "https://oecd.ai/en/incidents/2026-05-26-4cae",
+        outlet: "OECD AI Policy Observatory",
+        date: "May 2026",
+      },
+      {
+        title: "How surveillance pricing could raise — or lower — your grocery costs",
+        url: "https://www.newsweek.com/how-surveillance-pricing-could-raise-or-lower-your-grocery-costs-12005121",
+        outlet: "Newsweek",
+        date: "May 2026",
+      },
+      {
+        title: "Americans demand ban on dynamic pricing — while a baffling portion prefer real-time price fluctuations",
+        url: "https://nypost.com/2026/05/27/lifestyle/majority-of-americans-support-ban-on-electronic-dynamic-pricing/",
+        outlet: "New York Post",
+        date: "May 2026",
+      },
+      {
+        title: "Most Americans want digital shelf labels and surveillance pricing banned amid grocery price fears",
+        url: "https://www.techspot.com/news/112545-most-americans-want-digital-shelf-labels-surveillance-pricing.html",
+        outlet: "TechSpot",
+        date: "May 2026",
+      },
+      {
+        title: "Commentary: Your personal data shouldn't be used to raise the price of your groceries",
+        url: "https://www.timesunion.com/opinion/article/personal-data-shouldn-t-used-raise-grocery-prices-22278837.php",
+        outlet: "Times Union",
+        date: "May 2026",
+      },
+      {
+        title: "Maryland won't let stores stalk your buying history; does your state?",
+        url: "https://www.yahoo.com/news/politics/articles/maryland-wont-let-stores-stalk-164403413.html",
+        outlet: "Yahoo Finance",
+        date: "May 2026",
+      },
+      {
+        title: "Grocery stores would have to limit price increases under proposed NYC bill",
+        url: "https://pix11.com/news/local-news/grocery-stores-would-have-to-limit-price-increases-under-proposed-nyc-bill/",
+        outlet: "WPIX",
+        date: "May 2026",
+      },
+      {
+        title: "Americans Demand Halt to Surveillance Pricing as States Race to Ban Digital Shelf Tags",
+        url: "https://www.webpronews.com/americans-demand-halt-to-surveillance-pricing-as-states-race-to-ban-digital-shelf-tags/",
+        outlet: "WebProNews",
+        date: "May 2026",
+      },
+      {
+        title: "Majority Of Americans Want Surveillance Pricing Banned Before It Takes Over Grocery Stores",
+        url: "https://www.gadgetreview.com/majority-of-americans-want-surveillance-pricing-banned-before-it-takes-over-grocery-stores",
+        outlet: "Gadget Review",
+        date: "May 2026",
+      },
+      {
+        title: "Attorney General James Rallies in the Bronx to Ban Surveillance Pricing",
+        url: "https://ag.ny.gov/press-release/2026/attorney-general-james-rallies-bronx-ban-surveillance-pricing",
+        outlet: "New York State Attorney General",
+        date: "May 2026",
+      },
+      {
+        title: "Attorney General James Rallies in Syracuse to Ban Surveillance Pricing",
+        url: "https://ag.ny.gov/press-release/2026/attorney-general-james-rallies-syracuse-ban-surveillance-pricing",
+        outlet: "New York State Attorney General",
+        date: "May 2026",
+      },
+      {
+        title: "Walmart Draws a Line Between Smart Markdowns and Dynamic Pricing",
+        url: "https://www.pymnts.com/walmart/2026/walmart-says-ai-merchandising-patents-shouldnt-raise-dynamic-pricing-fears/",
+        outlet: "PYMNTS",
+        date: "March 2026",
+      },
+      {
+        title: "California state Assembly passes key bill to prohibit surveillance pricing",
+        url: "https://advocacy.consumerreports.org/press_release/california-state-assembly-passes-key-bill-to-prohibit-surveillance-pricing/",
+        outlet: "Consumer Reports",
+        date: "May 2026",
+      },
+      {
         title: "Walmart patents new AI technology to 'automatically update item prices'",
         url: "https://www.themirror.com/lifestyle/shopping/walmart-patents-ai-powered-pricing-1750390",
         outlet: "The Mirror US",
@@ -192,6 +270,84 @@ export const patents: Patent[] = [
       "A machine learning system that uses price elasticity data and predicted demand to automatically generate markdown prices across Walmart's e-commerce platform. The patent covers two model paths: a primary model that fires when both elasticity and demand data are available (enabling precise per-item optimization), and a decay-rate fallback for when they are not — both bounded by configurable upper and lower price limits. Walmart publicly characterizes this as a 'markdown tool' rather than a dynamic or personalized pricing engine, but the underlying data infrastructure — per-item elasticity modeling, real-time demand signals — would make consumer-characteristic pricing technically feasible at scale. This is one of approximately 50 US patents Walmart secured in 2026.",
     patentUrl: "https://patents.google.com/patent/US12524776B2/en",
     newsReferences: [
+      {
+        title: "Walmart's AI-Driven Surveillance Pricing Sparks Public Backlash and State Bans",
+        url: "https://oecd.ai/en/incidents/2026-05-26-4cae",
+        outlet: "OECD AI Policy Observatory",
+        date: "May 2026",
+      },
+      {
+        title: "How surveillance pricing could raise — or lower — your grocery costs",
+        url: "https://www.newsweek.com/how-surveillance-pricing-could-raise-or-lower-your-grocery-costs-12005121",
+        outlet: "Newsweek",
+        date: "May 2026",
+      },
+      {
+        title: "Americans demand ban on dynamic pricing — while a baffling portion prefer real-time price fluctuations",
+        url: "https://nypost.com/2026/05/27/lifestyle/majority-of-americans-support-ban-on-electronic-dynamic-pricing/",
+        outlet: "New York Post",
+        date: "May 2026",
+      },
+      {
+        title: "Most Americans want digital shelf labels and surveillance pricing banned amid grocery price fears",
+        url: "https://www.techspot.com/news/112545-most-americans-want-digital-shelf-labels-surveillance-pricing.html",
+        outlet: "TechSpot",
+        date: "May 2026",
+      },
+      {
+        title: "Commentary: Your personal data shouldn't be used to raise the price of your groceries",
+        url: "https://www.timesunion.com/opinion/article/personal-data-shouldn-t-used-raise-grocery-prices-22278837.php",
+        outlet: "Times Union",
+        date: "May 2026",
+      },
+      {
+        title: "Maryland won't let stores stalk your buying history; does your state?",
+        url: "https://www.yahoo.com/news/politics/articles/maryland-wont-let-stores-stalk-164403413.html",
+        outlet: "Yahoo Finance",
+        date: "May 2026",
+      },
+      {
+        title: "Grocery stores would have to limit price increases under proposed NYC bill",
+        url: "https://pix11.com/news/local-news/grocery-stores-would-have-to-limit-price-increases-under-proposed-nyc-bill/",
+        outlet: "WPIX",
+        date: "May 2026",
+      },
+      {
+        title: "Americans Demand Halt to Surveillance Pricing as States Race to Ban Digital Shelf Tags",
+        url: "https://www.webpronews.com/americans-demand-halt-to-surveillance-pricing-as-states-race-to-ban-digital-shelf-tags/",
+        outlet: "WebProNews",
+        date: "May 2026",
+      },
+      {
+        title: "Majority Of Americans Want Surveillance Pricing Banned Before It Takes Over Grocery Stores",
+        url: "https://www.gadgetreview.com/majority-of-americans-want-surveillance-pricing-banned-before-it-takes-over-grocery-stores",
+        outlet: "Gadget Review",
+        date: "May 2026",
+      },
+      {
+        title: "Attorney General James Rallies in the Bronx to Ban Surveillance Pricing",
+        url: "https://ag.ny.gov/press-release/2026/attorney-general-james-rallies-bronx-ban-surveillance-pricing",
+        outlet: "New York State Attorney General",
+        date: "May 2026",
+      },
+      {
+        title: "Attorney General James Rallies in Syracuse to Ban Surveillance Pricing",
+        url: "https://ag.ny.gov/press-release/2026/attorney-general-james-rallies-syracuse-ban-surveillance-pricing",
+        outlet: "New York State Attorney General",
+        date: "May 2026",
+      },
+      {
+        title: "Walmart Draws a Line Between Smart Markdowns and Dynamic Pricing",
+        url: "https://www.pymnts.com/walmart/2026/walmart-says-ai-merchandising-patents-shouldnt-raise-dynamic-pricing-fears/",
+        outlet: "PYMNTS",
+        date: "March 2026",
+      },
+      {
+        title: "California state Assembly passes key bill to prohibit surveillance pricing",
+        url: "https://advocacy.consumerreports.org/press_release/california-state-assembly-passes-key-bill-to-prohibit-surveillance-pricing/",
+        outlet: "Consumer Reports",
+        date: "May 2026",
+      },
       {
         title: "Walmart patents new AI technology to 'automatically update item prices'",
         url: "https://www.themirror.com/lifestyle/shopping/walmart-patents-ai-powered-pricing-1750390",
@@ -479,6 +635,12 @@ export const patents: Patent[] = [
     patentUrl: "https://patents.google.com/patent/US20260006023A1/en",
     newsReferences: [
       {
+        title: "Visa Debuts Agentic Program to Help Banks Test AI Payments",
+        url: "https://www.pymnts.com/artificial-intelligence-2/2026/visa-launches-agentic-ready-program-to-help-banks-test-ai-payments/",
+        outlet: "PYMNTS",
+        date: "March 2026",
+      },
+      {
         title: "Card Networks Use Trust and Identity to Build Agentic Commerce",
         url: "https://www.pymnts.com/news/artificial-intelligence/2026/card-networks-use-trust-identity-build-agentic-commerce/",
         outlet: "PYMNTS",
@@ -535,6 +697,12 @@ export const patents: Patent[] = [
       "Scores a retailer's landing page in real time against a user's search intent, past queries, location, and conversion signals. If the page underperforms a threshold — based on bounce rate, click-through rate, or conversion quality — Google automatically substitutes an AI-generated replacement page, without the retailer's knowledge or consent. Granted January 27, 2026; filed July 2024. Widely covered as 'Google patented the right to replace your website.' The consumer data implications are significant: the system requires continuous behavioral tracking of users across sessions to generate the intent signals that trigger replacement.",
     patentUrl: "https://patents.google.com/patent/US12536233B1/en",
     newsReferences: [
+      {
+        title: "Will Google replace your landing pages with AI versions?",
+        url: "https://www.semrush.com/blog/google-ai-generated-landing-pages-patent/",
+        outlet: "Semrush",
+        date: "March 2026",
+      },
       {
         title: "Google's AI Generated Landing Page Patent Is Limited To Shopping & Ads",
         url: "https://www.searchenginejournal.com/google-ai-generated-landing-page-patent-is-limited-to-shopping-ads/568650/",
