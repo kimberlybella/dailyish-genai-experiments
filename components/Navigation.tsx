@@ -21,9 +21,6 @@ export default function Navigation() {
             <Link href="/patents" className="hover:text-light/70 transition-colors">
               Patent Watch
             </Link>
-            <Link href="/radar" className="hover:text-light/70 transition-colors">
-              On My Radar
-            </Link>
             <Link href="/about" className="hover:text-light/70 transition-colors">
               About
             </Link>
