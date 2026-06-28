@@ -5,6 +5,7 @@ import {
   type Patent,
   type PatentCategory,
 } from "@/data/patents";
+import PatentNewsList from "@/components/PatentNewsList";
 
 export const metadata = {
   title: "Patent Watch | Daily(ish) GenAI Experiments",
@@ -100,30 +101,7 @@ function PatentCard({ patent }: { patent: Patent }) {
 
       {/* News references */}
       {patent.newsReferences && patent.newsReferences.length > 0 && (
-        <div>
-          <p className="text-xs font-sans font-semibold text-dark/40 uppercase tracking-wide mb-1.5">
-            In the news
-          </p>
-          <ul className="space-y-1">
-            {patent.newsReferences.map((ref, i) => (
-              <li key={i} className="text-sm font-sans">
-                <a
-                  href={ref.url}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="text-blue-700 hover:underline"
-                >
-                  {ref.title}
-                </a>
-                {(ref.outlet || ref.date) && (
-                  <span className="text-dark/40 ml-1">
-                    &mdash; {[ref.outlet, ref.date].filter(Boolean).join(", ")}
-                  </span>
-                )}
-              </li>
-            ))}
-          </ul>
-        </div>
+        <PatentNewsList references={patent.newsReferences} />
       )}
 
       {/* Footer */}
